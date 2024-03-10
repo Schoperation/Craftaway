@@ -1,0 +1,13 @@
+name = "Craftaway"
+author = "Schoperation"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ef9e98e6dc87669c6420f0bf7aab35fb1aff59ef033985b1c79f025b3bab58ed"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.20.1"

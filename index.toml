@@ -1,0 +1,105 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/wakes.json"
+hash = "d668e47d762e646e96523845d88f6a92946d0f4aa0aad0369c43d0d6efa3656a"
+
+[[files]]
+file = "mods/astrocraft.pw.toml"
+hash = "4b38f1d110c78483a23e1703c429f15dfa103af4b8ee261d9aea76a6245cf22f"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "f34711313112e49b00571a21870024db72669e85f1d73e58235b63c994be7165"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "5f53eb8d272bfec2c6f58d6d744397b8152d7561a370f1d6e7e1e495fc4a1e7a"
+metafile = true
+
+[[files]]
+file = "mods/bounced.pw.toml"
+hash = "06fbb3bad511e9c763595965c53ab377b39e9d8acf2f54f85ac5b68bb9fe8eae"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "d543ff3e5a5620ccf586716b6ea41d6ddb2b088bfae71c2c3f832d7ac17d0f7c"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshaircompat.pw.toml"
+hash = "77d166c33b6a4287d933235ddccb8dae0ecc6ccf162473c18a902a1a6cc6f8f0"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "2d402accb412d403fab442732d27b985779aa6fc2d0637318b0e38313c18dfc3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "0c4c20d601b15dbc85c275732d9efe9369597503c7d6caa9a7fee217f67073e7"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "ac2ca5caef9ddb4fd53c035bfaf07026f12bcdb162d19c2fa473bdec8fbec630"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "35c2ae5940c28138941572e32322d6aac0cfa05121fdeb5ea8bbf3be7ce3adcc"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "4d864bdfc5a507071a1d63c49256481b1198d7275adc6312b6e278f1aa601775"
+metafile = true
+
+[[files]]
+file = "mods/survival-island.pw.toml"
+hash = "c712b8ead4c605b924b8ac8efd1d30290cc03ffcb50f21b7f34ef0669716a0dc"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "5d3a6812ad065ed4e6d84824d053757ca9f798eb0e0ef9bc8a103aba950022e2"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "76b20c4a8f3b359691380f30eb2778b2dbba74592e396f99228084bd9dc8032d"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "f2855ca462a5ef36206a941612989aed049b1cd49559f0f2d4d247505566e546"
+metafile = true
