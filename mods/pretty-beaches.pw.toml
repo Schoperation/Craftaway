@@ -1,0 +1,13 @@
+name = "Pretty Beaches"
+filename = "prettybeaches-fabric-1.21-21.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAJe5m4X/versions/2iGkxHfl/prettybeaches-fabric-1.21-21.0.2.jar"
+hash-format = "sha1"
+hash = "40809ff1ee37ab23df055ce44519c64f656322fc"
+
+[update]
+[update.modrinth]
+mod-id = "IAJe5m4X"
+version = "2iGkxHfl"

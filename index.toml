@@ -1,12 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/natures_spirit_1.5.0.1-1.20.6.json"
+hash = "ef06474735349071d3073380ca8fc4e936d36bb1bad76fa589221f36c46a42ac"
+
+[[files]]
 file = "config/wakes.json"
 hash = "d668e47d762e646e96523845d88f6a92946d0f4aa0aad0369c43d0d6efa3656a"
 
 [[files]]
 file = "datapacks/Survival_Islands_rare_medium_islands.zip"
 hash = "e5cf56e69ed3cda88d3cb19fa344cf69f912b81698a5b405abb2a1c6f56278a7"
+
+[[files]]
+file = "mods/alcohol-mod.pw.toml"
+hash = "8093426b1126a5d54aa1d81616396078b31eebde40a220c8b416216ef712af92"
+metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
@@ -16,6 +25,11 @@ metafile = true
 [[files]]
 file = "mods/astrocraft.pw.toml"
 hash = "008c4b5bc1685e5021760f85e89d73e3f5297412094a8ebe8669afc32968f3a6"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "5b22c7bb3ecd93b5ed027aee1961da93c3ea2e723e4a9369944ca1c1a633647b"
 metafile = true
 
 [[files]]
@@ -34,8 +48,23 @@ hash = "8ca9125b2c6cdaf6db706e51397f7e9d8768e388851dc10dcdd4a7fb2e04f145"
 metafile = true
 
 [[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "d7afe9b56a027896dcf34d5d20eb2762b7ca55118c793b843d71d3eff1511c37"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
+metafile = true
+
+[[files]]
+file = "mods/deeper-oceans-refabricated.pw.toml"
+hash = "e2176ae617228d7ca6da396183c9ce3931590c70dad125b05ed0405644d59280"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "057d87624996a9ad0d295cf72533fb57d163841f8344f1af4132545443b1fc35"
 metafile = true
 
 [[files]]
@@ -45,12 +74,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
+hash = "9e796b52f72bd9eee7d716a5014d8214956ed3f7661d0f44af85c8a86775bbbf"
 metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "860538dace2029fb4539bfc33182f560ab7ef66fcbb3427c0dd262405229a8fe"
+metafile = true
+
+[[files]]
+file = "mods/fish-of-thieves.pw.toml"
+hash = "fda087ccf4742123a900036d37277372a9b9f0a3b659f2c552770f97f8202374"
 metafile = true
 
 [[files]]
@@ -61,6 +95,21 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "71dd11e6e6ba5272307a423e552ee9f7d5406d9846ef2b29f842056072964778"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "c56923340ce6f01a1d26636a15396bf55d83bb8ce68a0ccce515f577bdd322fd"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "63204962d0a0e101e1d7fb51d69190ec245400a2062ac8f2b24bde57213ed158"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
 metafile = true
 
 [[files]]
@@ -84,13 +133,28 @@ hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
+file = "mods/nofun-dnt.pw.toml"
+hash = "abddbbe7c0e0d2a10b51967d8a55f61fe9b6c387f2c4f72d58873caedc830843"
+metafile = true
+
+[[files]]
 file = "mods/northerncompass.pw.toml"
 hash = "7b2ffb48d9ad6f195325d61f8f401dafdbe45bc9da87103052ed976ff0a3fe05"
 metafile = true
 
 [[files]]
+file = "mods/pretty-beaches.pw.toml"
+hash = "153b78c67e2821c863f4d9ed504e69c1f6534d9d9b3447872487300575396005"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "6bbcf8fd88ab41d66176c1290576f1b484904238c52ad1928f32f9e81c4e9ce0"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
 metafile = true
 
 [[files]]
@@ -101,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "11d45d83c817b2fa8572d7668d294763449b0fa62bde431665dcb833a9e581d3"
+metafile = true
+
+[[files]]
+file = "mods/this-rocks.pw.toml"
+hash = "667ed020dd17be200be72d2cc3ddd2a5dc4cc3c2fe93652502759c1bd55d06bb"
 metafile = true
 
 [[files]]

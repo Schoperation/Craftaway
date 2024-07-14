@@ -1,0 +1,13 @@
+name = "Alcohol Only"
+filename = "alcohol-only-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VEs3AHJu/versions/oOu7MCk3/alcohol-only-2.0.2.jar"
+hash-format = "sha1"
+hash = "3c1f8c79ebe1bd3abd2bc002bf33e3467513bd84"
+
+[update]
+[update.modrinth]
+mod-id = "VEs3AHJu"
+version = "oOu7MCk3"
