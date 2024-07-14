@@ -5,6 +5,10 @@ file = "config/wakes.json"
 hash = "d668e47d762e646e96523845d88f6a92946d0f4aa0aad0369c43d0d6efa3656a"
 
 [[files]]
+file = "datapacks/Survival_Islands_rare_medium_islands.zip"
+hash = "e5cf56e69ed3cda88d3cb19fa344cf69f912b81698a5b405abb2a1c6f56278a7"
+
+[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "e0ced0e5bd03e5fc05dcfc68c81b0eba34eab290a17642e5e2c2ac188bd7d41f"
 metafile = true

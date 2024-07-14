@@ -6,7 +6,7 @@ TODO one day
 
 ### World Generation
 
-- [Survival Islands](https://modrinth.com/mod/survival-islands)
+- [Survival Islands (with rare medium isles preset)](https://modrinth.com/mod/survival-islands)
 - [Tidal Towns](https://modrinth.com/datapack/tidal-towns)
 
 ### Mechanics
