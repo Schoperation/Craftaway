@@ -6,7 +6,7 @@ hash = "d668e47d762e646e96523845d88f6a92946d0f4aa0aad0369c43d0d6efa3656a"
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "f7564f28fcbdbaef9a6fe127ee3015ad1fa34a191695d5f9d87d8cdcc18fe6de"
+hash = "e0ced0e5bd03e5fc05dcfc68c81b0eba34eab290a17642e5e2c2ac188bd7d41f"
 metafile = true
 
 [[files]]
@@ -82,11 +82,6 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "1e69046a631a01d806a1357cc4528440f0540fde69263a37609d511cb2a82d48"
-metafile = true
-
-[[files]]
-file = "mods/survival-island.pw.toml"
-hash = "c712b8ead4c605b924b8ac8efd1d30290cc03ffcb50f21b7f34ef0669716a0dc"
 metafile = true
 
 [[files]]

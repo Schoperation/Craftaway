@@ -6,12 +6,12 @@ TODO one day
 
 ### World Generation
 
-- [Survival Island](https://modrinth.com/mod/survival-island)
+- [Survival Islands](https://modrinth.com/mod/survival-islands)
 - [Tidal Towns](https://modrinth.com/datapack/tidal-towns)
 
 ### Mechanics
 
-- [Map Atlases](https://modrinth.com/mod/map-atlases)
+- [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4)
 
 ### New Stuff
 
