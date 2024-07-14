@@ -1,0 +1,13 @@
+name = "Info Tools"
+filename = "info-tools-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vSoR3IrK/versions/kFL2A7ov/info-tools-1.2.5.jar"
+hash-format = "sha1"
+hash = "633f47f21ce4b84c1c8a97a5764633a30099c312"
+
+[update]
+[update.modrinth]
+mod-id = "vSoR3IrK"
+version = "kFL2A7ov"

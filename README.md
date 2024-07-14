@@ -6,6 +6,8 @@ TODO one day
 
 ### World Generation
 
+- [Geophilic (might remove?)](https://modrinth.com/datapack/geophilic)
+- [Nature's Spirit](https://modrinth.com/mod/natures-spirit)
 - [Survival Islands (with rare medium isles preset)](https://modrinth.com/mod/survival-islands)
 - [Tidal Towns](https://modrinth.com/datapack/tidal-towns)
 
@@ -27,8 +29,11 @@ TODO one day
 - [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
 - [Dynamic Crosshair Compat](https://modrinth.com/mod/dynamiccrosshaircompat) (1.20.1 only...)
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves)
+- [Info Tools](https://modrinth.com/datapack/info-tools)
 - [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop) (1.20.1 only...)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
+- [No Telemetry](https://modrinth.com/mod/no-telemetry)
+- [Northern Compass](https://modrinth.com/mod/northerncompass)
 - [Spyglass Improvements](https://modrinth.com/mod/spyglass-improvements)
 - [Wakes](https://modrinth.com/mod/wakes)
 

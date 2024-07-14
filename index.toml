@@ -59,8 +59,33 @@ hash = "a640f92460620b2ac25ce4a65e4b80e4e19ee1d8498c74546b621dba1ffe5d51"
 metafile = true
 
 [[files]]
+file = "mods/geophilic.pw.toml"
+hash = "71dd11e6e6ba5272307a423e552ee9f7d5406d9846ef2b29f842056072964778"
+metafile = true
+
+[[files]]
+file = "mods/info-tools.pw.toml"
+hash = "1ab927cfc1a59156540f692c765a4846ada66f07385572771845062f2c7ea90d"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+metafile = true
+
+[[files]]
+file = "mods/natures-spirit.pw.toml"
+hash = "9bb10870932bb211e97da1db50766a6b5fdc4c231168a745b87cfa68779ee732"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
+file = "mods/northerncompass.pw.toml"
+hash = "7b2ffb48d9ad6f195325d61f8f401dafdbe45bc9da87103052ed976ff0a3fe05"
 metafile = true
 
 [[files]]
@@ -71,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "6b3d1cc8b47f371021aed3dd6bcc2e3737a496414dcc78588eba01260bbe55db"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "11d45d83c817b2fa8572d7668d294763449b0fa62bde431665dcb833a9e581d3"
 metafile = true
 
 [[files]]
