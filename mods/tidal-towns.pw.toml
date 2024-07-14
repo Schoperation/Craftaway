@@ -1,13 +1,13 @@
 name = "Tidal Towns"
-filename = "tidal-towns-1.3.jar"
+filename = "tidal-towns-1.3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EEIwvQVo/versions/29RM9vrK/tidal-towns-1.3.jar"
+url = "https://cdn.modrinth.com/data/EEIwvQVo/versions/oJGqEahl/tidal-towns-1.3.2.jar"
 hash-format = "sha1"
-hash = "eebdf2667cd0fba946276554db0164af213a6091"
+hash = "480e6f5ac309c50a4dd819a1f30afc8507df909d"
 
 [update]
 [update.modrinth]
 mod-id = "EEIwvQVo"
-version = "29RM9vrK"
+version = "oJGqEahl"

@@ -10,95 +10,80 @@ hash = "e5cf56e69ed3cda88d3cb19fa344cf69f912b81698a5b405abb2a1c6f56278a7"
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "e0ced0e5bd03e5fc05dcfc68c81b0eba34eab290a17642e5e2c2ac188bd7d41f"
+hash = "30dccf15cea7767a423ddada2e6299145b1efc3e41f59c8b0587de3a04d4d8fc"
 metafile = true
 
 [[files]]
 file = "mods/astrocraft.pw.toml"
-hash = "adba9d6919ea5369f2d33043590a560181c3ee9d1e0410cb6cf257ddd4b2e09e"
+hash = "008c4b5bc1685e5021760f85e89d73e3f5297412094a8ebe8669afc32968f3a6"
 metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "6bdfc9a5225966ea861c7127e42dd2734d71e1d190ca6de4b9cf1f1fb8c91085"
+hash = "6438061a93342cd9b307adbc7a16d776cba74dbf01f1409215e111d45cb0916c"
 metafile = true
 
 [[files]]
 file = "mods/blur-fabric.pw.toml"
-hash = "5f53eb8d272bfec2c6f58d6d744397b8152d7561a370f1d6e7e1e495fc4a1e7a"
+hash = "c8af4c8bd0a07e4eef4d9c2ad3756b2ca2f8d9ed84e76608626096a9309341dc"
 metafile = true
 
 [[files]]
 file = "mods/bounced.pw.toml"
-hash = "0f770aa873be6fd23b6c78a8805bd7aa4d049fb173afad535f16ac6216232e77"
+hash = "8ca9125b2c6cdaf6db706e51397f7e9d8768e388851dc10dcdd4a7fb2e04f145"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
 metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "d543ff3e5a5620ccf586716b6ea41d6ddb2b088bfae71c2c3f832d7ac17d0f7c"
-metafile = true
-
-[[files]]
-file = "mods/dynamiccrosshaircompat.pw.toml"
-hash = "603a793b66f89e59b8ecd2a5286e5bb75969f872866c460ce272055d83e13447"
-metafile = true
-
-[[files]]
-file = "mods/exposure.pw.toml"
-hash = "9e535e216a94ae292da6edab5969d06825a90d57ee8103582ba5d23b5fccc748"
+hash = "867b8bf4d6db1eaac9a4c1e5b94863094ad609a5483e67a3c72986aeafaa760a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
 metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "948e8a5d65ede4a8612a2f476d7b3b0f2fe00436ab3b8dd73829d4bdcf0cdf22"
+hash = "860538dace2029fb4539bfc33182f560ab7ef66fcbb3427c0dd262405229a8fe"
 metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
-metafile = true
-
-[[files]]
-file = "mods/make_bubbles_pop.pw.toml"
-hash = "ac2ca5caef9ddb4fd53c035bfaf07026f12bcdb162d19c2fa473bdec8fbec630"
+hash = "a640f92460620b2ac25ce4a65e4b80e4e19ee1d8498c74546b621dba1ffe5d51"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
 file = "mods/small-ships.pw.toml"
-hash = "9dc02ea6455a10ec6ac928317f14674c8f6c9b035e9f8ab80176d5911fb476a1"
+hash = "6bbcf8fd88ab41d66176c1290576f1b484904238c52ad1928f32f9e81c4e9ce0"
 metafile = true
 
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
-hash = "1e69046a631a01d806a1357cc4528440f0540fde69263a37609d511cb2a82d48"
+hash = "6b3d1cc8b47f371021aed3dd6bcc2e3737a496414dcc78588eba01260bbe55db"
 metafile = true
 
 [[files]]
 file = "mods/tidal-towns.pw.toml"
-hash = "b47c07f5182af99016791a7008a241cd19442cb9e993cd56f5f90961a5f1375f"
+hash = "2a96fc7f75ffb8fe98e602243a06254290a7a8ed5a2d46ea1b9b254f0020125d"
 metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
-hash = "fab6ac1665f022c0ca72c73ed0974049f5453b8f4f280092b4aa5ac773fed5c2"
+hash = "068f68e40d616ecbf80be781998dffba710616b5aefdaed013be79a53f13c50d"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "5fa3a100f874ad3d03b674e867105fc7cc7dcf98b5c1c50d7841a25a0dda4607"
+hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
 metafile = true

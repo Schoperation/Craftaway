@@ -15,7 +15,7 @@ TODO one day
 
 ### New Stuff
 
-- [Exposure](https://modrinth.com/mod/exposure)
+- [Exposure](https://modrinth.com/mod/exposure) (1.20.1 only...)
 - [Small Ships](https://modrinth.com/mod/small-ships)
 
 ### Client-Only Utilities and Aesthetics
@@ -25,9 +25,9 @@ TODO one day
 - [Bounced](https://modrinth.com/mod/bounced)
 - [Blur](https://modrinth.com/mod/blur-fabric)
 - [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
-- [Dynamic Crosshair Compat](https://modrinth.com/mod/dynamiccrosshaircompat)
+- [Dynamic Crosshair Compat](https://modrinth.com/mod/dynamiccrosshaircompat) (1.20.1 only...)
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves)
-- [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)
+- [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop) (1.20.1 only...)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [Spyglass Improvements](https://modrinth.com/mod/spyglass-improvements)
 - [Wakes](https://modrinth.com/mod/wakes)
