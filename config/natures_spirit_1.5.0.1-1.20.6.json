@@ -8,7 +8,7 @@
     "has_redwood_forest": false,
     "has_aspen_forest": false,
     "has_maple": false,
-    "has_fir": false,
+    "has_fir": true,
     "has_cypress_fields": true,
     "has_lively_dunes": true,
     "has_drylands": true,
@@ -27,7 +27,7 @@
     "terra_solaris_frequency": 0,
     "terra_flava_frequency": 0,
     "terra_laeta_frequency": 8,
-    "terra_mater_frequency": 4
+    "terra_mater_frequency": 8
   },
   "misc_features": {
     "deepslate_generator": true,

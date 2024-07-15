@@ -2,14 +2,14 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/natures_spirit_1.5.0.1-1.20.6.json"
-hash = "ef06474735349071d3073380ca8fc4e936d36bb1bad76fa589221f36c46a42ac"
+hash = "df3a46a0b963127d9b2dbe30fa9755715ae6d3e89e9b37181fa2c54af5c02789"
 
 [[files]]
 file = "config/wakes.json"
 hash = "d668e47d762e646e96523845d88f6a92946d0f4aa0aad0369c43d0d6efa3656a"
 
 [[files]]
-file = "datapacks/Survival_Islands_rare_medium_islands.zip"
+file = "global_packs/required_data/Survival_Islands_rare_medium_islands.zip"
 hash = "e5cf56e69ed3cda88d3cb19fa344cf69f912b81698a5b405abb2a1c6f56278a7"
 
 [[files]]
@@ -59,7 +59,12 @@ metafile = true
 
 [[files]]
 file = "mods/deeper-oceans-refabricated.pw.toml"
-hash = "e2176ae617228d7ca6da396183c9ce3931590c70dad125b05ed0405644d59280"
+hash = "cb6676e585798d108e7fb55cd79373c33227833f6de385db836effa087f19ab3"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
+hash = "0bbd235a608c0d047f8a65576db6835084d7521c47a92797a1c86dc85780388e"
 metafile = true
 
 [[files]]
