@@ -1,0 +1,13 @@
+name = "Copper Uses"
+filename = "copper-uses-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1IIugQZ3/versions/UD0CVSet/copper-uses-1.0.jar"
+hash-format = "sha1"
+hash = "cc3454567b7c034a2e8a3a57da85a711da4dd5d3"
+
+[update]
+[update.modrinth]
+mod-id = "1IIugQZ3"
+version = "UD0CVSet"

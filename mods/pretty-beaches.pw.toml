@@ -1,6 +1,6 @@
 name = "Pretty Beaches"
 filename = "prettybeaches-fabric-1.21-21.0.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IAJe5m4X/versions/2iGkxHfl/prettybeaches-fabric-1.21-21.0.2.jar"

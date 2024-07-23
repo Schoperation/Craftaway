@@ -58,6 +58,11 @@ hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
 metafile = true
 
 [[files]]
+file = "mods/copper-uses.pw.toml"
+hash = "870bbf5a5287c7c46f1266b9900b6548ec5c20b77a5457eaa2fdb64bfb276c64"
+metafile = true
+
+[[files]]
 file = "mods/deeper-oceans-refabricated.pw.toml"
 hash = "cb6676e585798d108e7fb55cd79373c33227833f6de385db836effa087f19ab3"
 metafile = true
@@ -123,6 +128,11 @@ hash = "1ab927cfc1a59156540f692c765a4846ada66f07385572771845062f2c7ea90d"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "79f0958db94d007778f03da083f9d75077978e3cc04b23f1081ecb2d6a4906b4"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
@@ -149,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/pretty-beaches.pw.toml"
-hash = "153b78c67e2821c863f4d9ed504e69c1f6534d9d9b3447872487300575396005"
+hash = "49ee46c74659f72b1b19cdf9dd865ac58b1743ae0d447eb130c459c318f359e5"
 metafile = true
 
 [[files]]
