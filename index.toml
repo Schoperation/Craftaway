@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/astrocraft.json"
+hash = "52f101964b80a4126a02249027d2005af26e15071c0cd335d57bbc3b67bb6ec2"
+
+[[files]]
+file = "config/boring_default_game_rules/config.json"
+hash = "ddd02c8ba388d368f232b152f02fbaa877b6fd61d6addefa7f3a135ac3fe0453"
+
+[[files]]
+file = "config/boring_default_game_rules/config.schema.json"
+hash = "56850a73c061fc8781ff3de244e845c831b68f22de7e20ea2a965f94017e883d"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "6307db332dfe3ce2788a538f529f850340f2b65b0f3b604aaa8080aa4b348c2b"
+
+[[files]]
 file = "config/natures_spirit_1.5.0.1-1.20.6.json"
 hash = "df3a46a0b963127d9b2dbe30fa9755715ae6d3e89e9b37181fa2c54af5c02789"
 
@@ -40,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "c8af4c8bd0a07e4eef4d9c2ad3756b2ca2f8d9ed84e76608626096a9309341dc"
+metafile = true
+
+[[files]]
+file = "mods/boring-default-game-rules.pw.toml"
+hash = "80bd7f6f1cdc0f4be7ba42a9b7b0f58623b365cf3382fe0c7c4f8ae07d41f3f8"
 metafile = true
 
 [[files]]
@@ -93,6 +114,11 @@ hash = "860538dace2029fb4539bfc33182f560ab7ef66fcbb3427c0dd262405229a8fe"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "39b75684d3d6f95e99328606a342efd9a843d5799289b40683cbcc19ebb2ba1b"
+metafile = true
+
+[[files]]
 file = "mods/fish-of-thieves.pw.toml"
 hash = "fda087ccf4742123a900036d37277372a9b9f0a3b659f2c552770f97f8202374"
 metafile = true
@@ -138,8 +164,18 @@ hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "09a2cb241231f2ff1d2e22620cd430a002b97a14704b83163cd89f36fcb72815"
+metafile = true
+
+[[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "9bb10870932bb211e97da1db50766a6b5fdc4c231168a745b87cfa68779ee732"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
 
 [[files]]
@@ -158,6 +194,11 @@ hash = "7b2ffb48d9ad6f195325d61f8f401dafdbe45bc9da87103052ed976ff0a3fe05"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "8b50d547b25eea37fc02935410696d0d286f836622fefee4d1e3c6188d098e5c"
+metafile = true
+
+[[files]]
 file = "mods/pretty-beaches.pw.toml"
 hash = "49ee46c74659f72b1b19cdf9dd865ac58b1743ae0d447eb130c459c318f359e5"
 metafile = true
@@ -170,6 +211,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "afc06fed4e996bf3ad5cf2e8248d1cfc6650d8cae19fc8c6745e41c085c8eb2d"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "91a33b07b4952cc57d8812cf8db96583c4ccdd21bd40c0e4a8204fd391062dec"
 metafile = true
 
 [[files]]
@@ -190,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "2a96fc7f75ffb8fe98e602243a06254290a7a8ed5a2d46ea1b9b254f0020125d"
+metafile = true
+
+[[files]]
+file = "mods/trees-make-sound.pw.toml"
+hash = "87cd01521da10d8903e92202d0f8f19eada5bf8c3a3a6e07fbd7ee72997ac538"
 metafile = true
 
 [[files]]

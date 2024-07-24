@@ -22,6 +22,8 @@ TODO one day
 
 - [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4)
 - [Copper Uses](https://modrinth.com/datapack/copper-uses)
+- [FallingTree](https://modrinth.com/mod/fallingtree)
+- [Trees Make Sound](https://modrinth.com/mod/trees-make-sound)
 
 ### New Stuff
 
@@ -44,8 +46,12 @@ TODO one day
 - [Info Tools](https://modrinth.com/datapack/info-tools)
 - [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
+- [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 - [No Telemetry](https://modrinth.com/mod/no-telemetry)
 - [Northern Compass](https://modrinth.com/mod/northerncompass)
+- [Particle Rain](https://modrinth.com/mod/particle-rain)
+- [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
+- [Sounds](https://modrinth.com/mod/sound)
 - [Spyglass Improvements](https://modrinth.com/mod/spyglass-improvements)
 - [Wakes](https://modrinth.com/mod/wakes)
 
@@ -60,5 +66,6 @@ TODO one day
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
 - [Indium](https://modrinth.com/mod/indium)
+- [MRU](https://modrinth.com/mod/mru)
 - [TerraBlender](https://modrinth.com/mod/terrablender)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)

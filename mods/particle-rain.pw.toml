@@ -1,0 +1,13 @@
+name = "Particle Rain"
+filename = "particle-rain-2.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nrikgvxm/versions/UQKVXNOt/particle-rain-2.1.2.jar"
+hash-format = "sha1"
+hash = "eb3689aef47facebc9e38541c96927ac30060c1f"
+
+[update]
+[update.modrinth]
+mod-id = "nrikgvxm"
+version = "UQKVXNOt"
