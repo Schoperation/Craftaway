@@ -1,0 +1,13 @@
+name = "Stonecutter Armor Stands"
+filename = "stonecutter-armor-stands-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fXS98jkb/versions/u7CQbqIV/stonecutter-armor-stands-1.0.jar"
+hash-format = "sha1"
+hash = "6f964a489f7f71fb92feb076f85f874d5f919fe2"
+
+[update]
+[update.modrinth]
+mod-id = "fXS98jkb"
+version = "u7CQbqIV"

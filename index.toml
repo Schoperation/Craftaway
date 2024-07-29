@@ -21,8 +21,20 @@ file = "config/natures_spirit_1.5.0.1-1.20.6.json"
 hash = "df3a46a0b963127d9b2dbe30fa9755715ae6d3e89e9b37181fa2c54af5c02789"
 
 [[files]]
+file = "config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "89c0cb5d28ab020c57d7186b509eab187b9137287593ba1cab343a7cdb15194a"
+
+[[files]]
 file = "config/wakes.json"
 hash = "d668e47d762e646e96523845d88f6a92946d0f4aa0aad0369c43d0d6efa3656a"
+
+[[files]]
+file = "config/water_vision.json"
+hash = "f8e37270acdd5b570f7d295ea41708edc34b4a0c421e976735ed93c0727c7337"
 
 [[files]]
 file = "global_packs/required_data/Survival_Islands_rare_medium_islands.zip"
@@ -31,6 +43,16 @@ hash = "e5cf56e69ed3cda88d3cb19fa344cf69f912b81698a5b405abb2a1c6f56278a7"
 [[files]]
 file = "mods/alcohol-mod.pw.toml"
 hash = "8093426b1126a5d54aa1d81616396078b31eebde40a220c8b416216ef712af92"
+metafile = true
+
+[[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "eb586237c139da61053ce14ea9a8d6cb3124e1731db22963ae79192b59b4c063"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "0543bf0e7d7ac48e221c7e97b55ca7add1c8a1a4b9c5d487688782472fe287b9"
 metafile = true
 
 [[files]]
@@ -84,8 +106,13 @@ hash = "870bbf5a5287c7c46f1266b9900b6548ec5c20b77a5457eaa2fdb64bfb276c64"
 metafile = true
 
 [[files]]
-file = "mods/deeper-oceans-refabricated.pw.toml"
-hash = "cb6676e585798d108e7fb55cd79373c33227833f6de385db836effa087f19ab3"
+file = "mods/creativecore.pw.toml"
+hash = "b0b002e8096206aa5cd650ca8bca1debcc56446602cbb209cffe7b28192cba33"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "a487981948d29a0175e7b92bc5cab7fe66af97665f8d1619c655a5dd2bac6e67"
 metafile = true
 
 [[files]]
@@ -109,6 +136,11 @@ hash = "9e796b52f72bd9eee7d716a5014d8214956ed3f7661d0f44af85c8a86775bbbf"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "860538dace2029fb4539bfc33182f560ab7ef66fcbb3427c0dd262405229a8fe"
 metafile = true
@@ -119,8 +151,18 @@ hash = "39b75684d3d6f95e99328606a342efd9a843d5799289b40683cbcc19ebb2ba1b"
 metafile = true
 
 [[files]]
+file = "mods/fish-no-stuck.pw.toml"
+hash = "4738055b58f2f0260797ba4581cc69a083974c00045bd3c0f86f1683e0bd230e"
+metafile = true
+
+[[files]]
 file = "mods/fish-of-thieves.pw.toml"
 hash = "fda087ccf4742123a900036d37277372a9b9f0a3b659f2c552770f97f8202374"
+metafile = true
+
+[[files]]
+file = "mods/fishing-real.pw.toml"
+hash = "541596fba57e3f9e6629bfa62eb2eec22c3a32cf6cb761fd266826250c3f7b0a"
 metafile = true
 
 [[files]]
@@ -141,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/hopo-better-underwater-ruins.pw.toml"
 hash = "63204962d0a0e101e1d7fb51d69190ec245400a2062ac8f2b24bde57213ed158"
+metafile = true
+
+[[files]]
+file = "mods/immersivethunder.pw.toml"
+hash = "9de7f5ad5ff476a24de9c7932cafc4e0566a33d9e35489e2ed0b0d5774f1424f"
 metafile = true
 
 [[files]]
@@ -199,6 +246,11 @@ hash = "8b50d547b25eea37fc02935410696d0d286f836622fefee4d1e3c6188d098e5c"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "5bef9a443c12a13d5eeefa60bbb0a40ef99ab8a0675cd335a6cc2520dc5ba33b"
+metafile = true
+
+[[files]]
 file = "mods/pretty-beaches.pw.toml"
 hash = "49ee46c74659f72b1b19cdf9dd865ac58b1743ae0d447eb130c459c318f359e5"
 metafile = true
@@ -219,13 +271,13 @@ hash = "afc06fed4e996bf3ad5cf2e8248d1cfc6650d8cae19fc8c6745e41c085c8eb2d"
 metafile = true
 
 [[files]]
-file = "mods/sound.pw.toml"
-hash = "91a33b07b4952cc57d8812cf8db96583c4ccdd21bd40c0e4a8204fd391062dec"
+file = "mods/spyglass-improvements.pw.toml"
+hash = "6b3d1cc8b47f371021aed3dd6bcc2e3737a496414dcc78588eba01260bbe55db"
 metafile = true
 
 [[files]]
-file = "mods/spyglass-improvements.pw.toml"
-hash = "6b3d1cc8b47f371021aed3dd6bcc2e3737a496414dcc78588eba01260bbe55db"
+file = "mods/stonecutter-armor-stands.pw.toml"
+hash = "27fd812dbd815a8ff26e347aec5761386b65ee4efebd722fa4cd301a4b5b34cd"
 metafile = true
 
 [[files]]
@@ -244,6 +296,11 @@ hash = "2a96fc7f75ffb8fe98e602243a06254290a7a8ed5a2d46ea1b9b254f0020125d"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "974f130d4bd4168f4673f0134ee692d9dbadce30b7785f81aec62ba974a112ac"
+metafile = true
+
+[[files]]
 file = "mods/trees-make-sound.pw.toml"
 hash = "87cd01521da10d8903e92202d0f8f19eada5bf8c3a3a6e07fbd7ee72997ac538"
 metafile = true
@@ -251,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "068f68e40d616ecbf80be781998dffba710616b5aefdaed013be79a53f13c50d"
+metafile = true
+
+[[files]]
+file = "mods/water-vision.pw.toml"
+hash = "0c34bd692c4d0991e473c1482d593e3430c7881f286839e2ac4d6314c55ac30f"
 metafile = true
 
 [[files]]

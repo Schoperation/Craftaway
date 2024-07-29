@@ -1,0 +1,13 @@
+name = "Fish No Stuck"
+filename = "fishnostuck-mc1.21-v1.0.3-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IjXg2Day/versions/8XEvPQTM/fishnostuck-mc1.21-v1.0.3-fabric.jar"
+hash-format = "sha1"
+hash = "6f09bbdbf5f1ee026f08208669638702ace7e19e"
+
+[update]
+[update.modrinth]
+mod-id = "IjXg2Day"
+version = "8XEvPQTM"

@@ -6,7 +6,6 @@ TODO one day
 
 ### World Generation
 
-- [Deeper Oceans: Refabricated](https://modrinth.com/mod/deeper-oceans-refabricated)
 - [Dungeons and Taverns](https://modrinth.com/datapack/dungeons-and-taverns)
 - [Dungeons and Taverns: Ocean Monument Replacement](https://modrinth.com/datapack/dungeons-and-taverns-ocean-monument-replacement)
 - [Geophilic (might remove?)](https://modrinth.com/datapack/geophilic)
@@ -14,15 +13,22 @@ TODO one day
 - [Nature's Spirit](https://modrinth.com/mod/natures-spirit)
 - [NoFun DnT](https://modrinth.com/datapack/nofun-dnt)
 - [Pretty Beaches](https://modrinth.com/mod/pretty-beaches)
-- [Survival Islands (with rare medium isles preset)](https://modrinth.com/mod/survival-islands)
+- [Survival Islands ~ rare medium isles preset](https://modrinth.com/mod/survival-islands)
 - [This Rocks!](https://modrinth.com/mod/this-rocks)
 - [Tidal Towns](https://modrinth.com/datapack/tidal-towns)
+- [Towns and Towers](https://modrinth.com/mod/towns-and-towers)
 
-### Mechanics
+### Mechanics & Mechanical Tweaks
 
 - [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4)
 - [Copper Uses](https://modrinth.com/datapack/copper-uses)
 - [FallingTree](https://modrinth.com/mod/fallingtree)
+- [Fishing Real](https://modrinth.com/mod/fishing-real)
+- [Fish No Stuck](https://modrinth.com/mod/fish-no-stuck)
+- [Info Tools](https://modrinth.com/datapack/info-tools)
+- [Northern Compass](https://modrinth.com/mod/northerncompass)
+- [Spyglass Improvements](https://modrinth.com/mod/spyglass-improvements)
+- [Stonecutter Armor Stands](https://modrinth.com/datapack/stonecutter-armor-stands)
 - [Trees Make Sound](https://modrinth.com/mod/trees-make-sound)
 
 ### New Stuff
@@ -32,8 +38,10 @@ TODO one day
 - [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves)
 - [Small Ships](https://modrinth.com/mod/small-ships)
 
-### Client-Only Utilities and Aesthetics
+### Client-Only Aesthetics
 
+- [Ambient Environment](https://modrinth.com/mod/ambient-environment)
+- [AmbientSounds](https://modrinth.com/mod/ambientsounds)
 - [Astrocraft](https://modrinth.com/mod/astrocraft)
 - [Better Clouds](https://modrinth.com/mod/better-clouds)
 - [Bounced](https://modrinth.com/mod/bounced)
@@ -42,28 +50,33 @@ TODO one day
 - [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
 - [Dynamic Crosshair Compat](https://modrinth.com/mod/dynamiccrosshaircompat) (1.20.1 only...)
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves)
-- [Global Packs](https://modrinth.com/mod/globalpacks)
-- [Info Tools](https://modrinth.com/datapack/info-tools)
+- [ImmersiveThunder](https://modrinth.com/mod/immersivethunder)
 - [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)
-- [Mod Menu](https://modrinth.com/mod/modmenu)
-- [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
-- [No Telemetry](https://modrinth.com/mod/no-telemetry)
-- [Northern Compass](https://modrinth.com/mod/northerncompass)
 - [Particle Rain](https://modrinth.com/mod/particle-rain)
+- [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
-- [Sounds](https://modrinth.com/mod/sound)
-- [Spyglass Improvements](https://modrinth.com/mod/spyglass-improvements)
 - [Wakes](https://modrinth.com/mod/wakes)
+- [WaterVision (???)](https://modrinth.com/mod/water-vision)
 
 ### Performance
 
 - [Sodium](https://modrinth.com/mod/sodium)
 
+### Utilities
+
+- [Global Packs](https://modrinth.com/mod/globalpacks)
+- [Mod Menu](https://modrinth.com/mod/modmenu)
+- [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+- [No Telemetry](https://modrinth.com/mod/no-telemetry)
+
 ### Libraries
 
 - [Balm](https://modrinth.com/mod/balm)
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
+- [CreativeCore](https://modrinth.com/mod/creativecore)
+- [Cristel Lib](https://modrinth.com/mod/cristel-lib)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
+- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
 - [Indium](https://modrinth.com/mod/indium)
 - [MRU](https://modrinth.com/mod/mru)
