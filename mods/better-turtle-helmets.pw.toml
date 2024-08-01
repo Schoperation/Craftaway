@@ -1,0 +1,13 @@
+name = "Better Turtle Helmets"
+filename = "betterturtlehelmets-1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/2ZjK3H4Y/versions/cqDyq5gJ/betterturtlehelmets-1.2.jar"
+hash-format = "sha1"
+hash = "4556b90afee39aa10d62a19280c176130bfce606"
+
+[update]
+[update.modrinth]
+mod-id = "2ZjK3H4Y"
+version = "cqDyq5gJ"

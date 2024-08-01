@@ -31,9 +31,7 @@
   },
   "misc_features": {
     "deepslate_generator": true,
-    "calcite_generator": true,
-    "vinegar": true,
-    "vinegar_duplication": true
+    "calcite_generator": true
   },
   "datapack_toggles": {
     "vanilla_trees_toggle": false,

@@ -1,0 +1,13 @@
+name = "Pesky Seagulls"
+filename = "pesky_seagulls-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sy2K2jVY/versions/wsslMxPA/pesky_seagulls-1.4.0.jar"
+hash-format = "sha1"
+hash = "b0c2c63f1ec751adaaf3ea413a3e8ee5e263fb0c"
+
+[update]
+[update.modrinth]
+mod-id = "Sy2K2jVY"
+version = "wsslMxPA"

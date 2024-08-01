@@ -10,7 +10,6 @@ TODO one day
 - [Dungeons and Taverns: Ocean Monument Replacement](https://modrinth.com/datapack/dungeons-and-taverns-ocean-monument-replacement)
 - [Geophilic (might remove?)](https://modrinth.com/datapack/geophilic)
 - [Hopo Better Underwater Ruins](https://modrinth.com/datapack/hopo-better-underwater-ruins)
-- [Nature's Spirit](https://modrinth.com/mod/natures-spirit)
 - [NoFun DnT](https://modrinth.com/datapack/nofun-dnt)
 - [Pretty Beaches](https://modrinth.com/mod/pretty-beaches)
 - [Survival Islands ~ rare medium isles preset](https://modrinth.com/mod/survival-islands)
@@ -21,7 +20,9 @@ TODO one day
 ### Mechanics & Mechanical Tweaks
 
 - [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4)
+- [Better Turtle Helmets](https://modrinth.com/mod/better-turtle-helmets)
 - [Copper Uses](https://modrinth.com/datapack/copper-uses)
+- [Dynamic Lights](https://modrinth.com/datapack/dynamic-lights)
 - [FallingTree](https://modrinth.com/mod/fallingtree)
 - [Fishing Real](https://modrinth.com/mod/fishing-real)
 - [Fish No Stuck](https://modrinth.com/mod/fish-no-stuck)
@@ -36,7 +37,11 @@ TODO one day
 - [Alcohol Only](https://modrinth.com/mod/alcohol-mod)
 - [Exposure](https://modrinth.com/mod/exposure) (1.20.1 only...)
 - [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves)
+- [Pesky Seagulls](https://modrinth.com/mod/pesky-seagulls)
 - [Small Ships](https://modrinth.com/mod/small-ships)
+- [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
+- [Tom's Mobs](https://modrinth.com/mod/toms-mobs)
+- [Variants and Ventures](https://modrinth.com/mod/variants-and-ventures)
 
 ### Client-Only Aesthetics
 
@@ -50,6 +55,7 @@ TODO one day
 - [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
 - [Dynamic Crosshair Compat](https://modrinth.com/mod/dynamiccrosshaircompat) (1.20.1 only...)
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves)
+- [Fishing Rod Fix](https://modrinth.com/mod/fishing-rod-fix)
 - [ImmersiveThunder](https://modrinth.com/mod/immersivethunder)
 - [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)
 - [Particle Rain](https://modrinth.com/mod/particle-rain)
@@ -80,5 +86,7 @@ TODO one day
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
 - [Indium](https://modrinth.com/mod/indium)
 - [MRU](https://modrinth.com/mod/mru)
+- [Polymer](https://modrinth.com/mod/polymer)
+- [SmartBrainLib](https://modrinth.com/mod/smartbrainlib)
 - [TerraBlender](https://modrinth.com/mod/terrablender)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
