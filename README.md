@@ -89,5 +89,5 @@ TODO one day
 - [MRU](https://modrinth.com/mod/mru)
 - [Polymer](https://modrinth.com/mod/polymer)
 - [SmartBrainLib](https://modrinth.com/mod/smartbrainlib)
-- [TerraBlender](https://modrinth.com/mod/terrablender)
+- [TerraBlender](https://modrinth.com/mod/terrablender) (can probably remove)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
