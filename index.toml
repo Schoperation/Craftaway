@@ -37,6 +37,10 @@ file = "config/water_vision.json"
 hash = "f8e37270acdd5b570f7d295ea41708edc34b4a0c421e976735ed93c0727c7337"
 
 [[files]]
+file = "global_packs/required_data/Craftaway_Biomes.zip"
+hash = "4cab20734815a1be4e43f5a85a2be9ae9a38ccddfeb6cc0bf590efd47d3585bb"
+
+[[files]]
 file = "global_packs/required_data/Survival_Islands_rare_medium_islands.zip"
 hash = "e5cf56e69ed3cda88d3cb19fa344cf69f912b81698a5b405abb2a1c6f56278a7"
 
@@ -341,6 +345,11 @@ hash = "1709aba4a5bfb6520eb8f8bed3dbf9eb808fb4d768e8c3b9dfaf08c71b8b000a"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-fireflies.pw.toml"
+hash = "bdbfd6482c443f461cc2840f5becc6b491dd5e8ea233c38a43f1cd9ba54299e8"
+metafile = true
+
+[[files]]
 file = "mods/variants-and-ventures.pw.toml"
 hash = "c749529186f4fec9e39f8c00b7f83811a304abf406e3f4465e5166353de6f45b"
 metafile = true
@@ -351,8 +360,8 @@ hash = "068f68e40d616ecbf80be781998dffba710616b5aefdaed013be79a53f13c50d"
 metafile = true
 
 [[files]]
-file = "mods/water-vision.pw.toml"
-hash = "0c34bd692c4d0991e473c1482d593e3430c7881f286839e2ac4d6314c55ac30f"
+file = "mods/wwoo.pw.toml"
+hash = "dc1645b81e22c25ff5751fcfe0153449d1483ea4ddaf08fab7d9cccdc7caa7ec"
 metafile = true
 
 [[files]]

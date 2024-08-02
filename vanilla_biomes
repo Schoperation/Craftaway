@@ -1,0 +1,56 @@
+^.*\{\n.*"biome": "minecraft:windswept_savanna",[\S\s]*?\},
+
+"biome": "minecraft:badlands",
+"biome": "minecraft:bamboo_jungle",
+"biome": "minecraft:beach",
+"biome": "minecraft:birch_forest", ================================
+"biome": "minecraft:cherry_grove",
+"biome": "minecraft:cold_ocean",
+"biome": "minecraft:dark_forest", ==========================
+"biome": "minecraft:deep_cold_ocean",
+"biome": "minecraft:deep_dark",
+"biome": "minecraft:deep_frozen_ocean",
+"biome": "minecraft:deep_lukewarm_ocean",
+"biome": "minecraft:deep_ocean",
+"biome": "minecraft:desert",
+"biome": "minecraft:dripstone_caves",
+"biome": "minecraft:eroded_badlands",
+"biome": "minecraft:flower_forest",
+"biome": "minecraft:forest", =========================================
+"biome": "minecraft:frozen_ocean",
+"biome": "minecraft:frozen_peaks",
+"biome": "minecraft:frozen_river",
+"biome": "minecraft:grove", =======================================
+"biome": "minecraft:ice_spikes",
+"biome": "minecraft:jagged_peaks",
+"biome": "minecraft:jungle",
+"biome": "minecraft:lukewarm_ocean",
+"biome": "minecraft:lush_caves",
+"biome": "minecraft:mangrove_swamp",
+"biome": "minecraft:meadow", ==================================
+"biome": "minecraft:mushroom_fields",
+"biome": "minecraft:ocean",
+"biome": "minecraft:old_growth_birch_forest", ========================
+"biome": "minecraft:old_growth_pine_taiga",
+"biome": "minecraft:old_growth_spruce_taiga",
+"biome": "minecraft:plains", ==================================
+"biome": "minecraft:river",
+"biome": "minecraft:savanna", =============================
+"biome": "minecraft:savanna_plateau", ===============================
+"biome": "minecraft:snowy_beach",
+"biome": "minecraft:snowy_plains", =====================
+"biome": "minecraft:snowy_slopes",
+"biome": "minecraft:snowy_taiga",
+"biome": "minecraft:sparse_jungle",
+"biome": "minecraft:stony_peaks",
+"biome": "minecraft:stony_shore",
+"biome": "minecraft:sunflower_plains", =====================
+"biome": "minecraft:swamp",
+"biome": "minecraft:taiga",
+"biome": "minecraft:warm_ocean",
+"biome": "minecraft:windswept_forest", ===========================
+"biome": "minecraft:windswept_gravelly_hills", ======================
+"biome": "minecraft:windswept_hills",
+"biome": "minecraft:windswept_savanna", ===================
+"biome": "minecraft:wooded_badlands",
+

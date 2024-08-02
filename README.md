@@ -16,6 +16,7 @@ TODO one day
 - [This Rocks!](https://modrinth.com/mod/this-rocks)
 - [Tidal Towns](https://modrinth.com/datapack/tidal-towns)
 - [Towns and Towers](https://modrinth.com/mod/towns-and-towers)
+- [William Wythers' Overhauled Overworld](https://modrinth.com/mod/wwoo)
 
 ### Mechanics & Mechanical Tweaks
 
@@ -61,8 +62,8 @@ TODO one day
 - [Particle Rain](https://modrinth.com/mod/particle-rain)
 - [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
+- [Vanilla Fireflies](https://modrinth.com/datapack/vanilla-fireflies)
 - [Wakes](https://modrinth.com/mod/wakes)
-- [WaterVision (???)](https://modrinth.com/mod/water-vision)
 
 ### Performance
 
