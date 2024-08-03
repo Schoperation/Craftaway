@@ -16,6 +16,7 @@ TODO one day
 - [This Rocks!](https://modrinth.com/mod/this-rocks)
 - [Tidal Towns](https://modrinth.com/datapack/tidal-towns)
 - [Towns and Towers](https://modrinth.com/mod/towns-and-towers)
+- [William Wythers' Expanded Ecosphere](https://modrinth.com/mod/expanded-ecosphere)
 - [William Wythers' Overhauled Overworld](https://modrinth.com/mod/wwoo)
 
 ### Mechanics & Mechanical Tweaks
@@ -89,5 +90,4 @@ TODO one day
 - [MRU](https://modrinth.com/mod/mru)
 - [Polymer](https://modrinth.com/mod/polymer)
 - [SmartBrainLib](https://modrinth.com/mod/smartbrainlib)
-- [TerraBlender](https://modrinth.com/mod/terrablender) (can probably remove)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)

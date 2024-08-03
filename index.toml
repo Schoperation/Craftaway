@@ -37,11 +37,11 @@ file = "config/water_vision.json"
 hash = "f8e37270acdd5b570f7d295ea41708edc34b4a0c421e976735ed93c0727c7337"
 
 [[files]]
-file = "global_packs/required_data/Craftaway_Biomes.zip"
+file = "global_packs/optional_data/Craftaway_Biomes.zip"
 hash = "4cab20734815a1be4e43f5a85a2be9ae9a38ccddfeb6cc0bf590efd47d3585bb"
 
 [[files]]
-file = "global_packs/required_data/Survival_Islands_rare_medium_islands.zip"
+file = "global_packs/optional_data/Survival_Islands_rare_medium_islands.zip"
 hash = "e5cf56e69ed3cda88d3cb19fa344cf69f912b81698a5b405abb2a1c6f56278a7"
 
 [[files]]
@@ -142,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "ac672dd8b4cb969b5ba56b27ef70d2129fb40f5f52ec674625a7823bc67988a1"
+metafile = true
+
+[[files]]
+file = "mods/expanded-ecosphere.pw.toml"
+hash = "54045890a43eeed27a96c44d21cfe05a7a42b28388ed1ca18e086f6a01aeff70"
 metafile = true
 
 [[files]]
@@ -307,11 +312,6 @@ metafile = true
 [[files]]
 file = "mods/stonecutter-armor-stands.pw.toml"
 hash = "27fd812dbd815a8ff26e347aec5761386b65ee4efebd722fa4cd301a4b5b34cd"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "11d45d83c817b2fa8572d7668d294763449b0fa62bde431665dcb833a9e581d3"
 metafile = true
 
 [[files]]
