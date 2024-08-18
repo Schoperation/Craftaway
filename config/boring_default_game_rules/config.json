@@ -4,7 +4,7 @@
 		"doInsomnia": false,
 		"doLimitedCrafting": true,
 		"spectatorsGenerateChunks": false,
-		"reducedDebugInfo": true
+		"reducedDebugInfo": false
 	},
 	"generate_json_schema": true
 }
