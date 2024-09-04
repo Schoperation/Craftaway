@@ -6,7 +6,7 @@ hash = "52f101964b80a4126a02249027d2005af26e15071c0cd335d57bbc3b67bb6ec2"
 
 [[files]]
 file = "config/boring_default_game_rules/config.json"
-hash = "ddd02c8ba388d368f232b152f02fbaa877b6fd61d6addefa7f3a135ac3fe0453"
+hash = "4cfe5fcae869ad527eb2dafa95b7ce5725a76dad531e20eaf66e3c4a45c9b769"
 
 [[files]]
 file = "config/boring_default_game_rules/config.schema.json"
@@ -39,6 +39,10 @@ hash = "f8e37270acdd5b570f7d295ea41708edc34b4a0c421e976735ed93c0727c7337"
 [[files]]
 file = "global_packs/optional_data/Craftaway_Biomes.zip"
 hash = "e0dd743d9ec2cc412bbfb9597066f18031f523725f1d5d105cb78e77ba198176"
+
+[[files]]
+file = "global_packs/optional_data/Craftaway_Biomes_4.zip"
+hash = "7721d07e70a22336ea1fb8eb4410a5d19d6a4c6110f979ca6fa65a10227e3454"
 
 [[files]]
 file = "global_packs/optional_data/Survival_Islands_rare_medium_islands.zip"

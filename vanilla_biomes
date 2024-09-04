@@ -40,7 +40,7 @@
     "biome": "minecraft:savanna_plateau",
 "biome": "minecraft:snowy_beach",
     "biome": "minecraft:snowy_plains",
-"biome": "minecraft:snowy_slopes",
+    "biome": "minecraft:snowy_slopes",
     "biome": "minecraft:snowy_taiga",
 "biome": "minecraft:sparse_jungle",
 "biome": "minecraft:stony_peaks",
@@ -94,7 +94,7 @@
 "biome": "wythers:calcite_coast",
 "biome": "wythers:chaparral",
 "biome": "wythers:coastal_mangroves",
-"biome": "wythers:cold_island",
+    "biome": "wythers:cold_island",
 "biome": "wythers:cold_plains",
 "biome": "wythers:cold_stony_shore",
 "biome": "wythers:cool_forest",
@@ -113,7 +113,7 @@
     "biome": "wythers:deep_snowy_taiga",
 "biome": "wythers:deep_underground",
 "biome": "wythers:desert_beach",
-"biome": "wythers:desert_island",
+    "biome": "wythers:desert_island",
 "biome": "wythers:desert_lakes",
 "biome": "wythers:desert_pinnacles",
     "biome": "wythers:desert_river",
@@ -134,11 +134,11 @@
 "biome": "wythers:forbidden_forest",
     "biome": "wythers:forest_edge",
     "biome": "wythers:forested_highlands",
-"biome": "wythers:frigid_island",
-"biome": "wythers:frozen_island",
+    "biome": "wythers:frigid_island",
+    "biome": "wythers:frozen_island",
 "biome": "wythers:fungous_dripstone_caves",
     "biome": "wythers:giant_sequoia_forest",
-"biome": "wythers:glacial_cliffs",
+    "biome": "wythers:glacial_cliffs",
     "biome": "wythers:granite_canyon",
 "biome": "wythers:gravelly_beach",
     "biome": "wythers:gravelly_river",
@@ -150,7 +150,7 @@
     "biome": "wythers:huangshan_highlands",
 "biome": "wythers:humid_tropical_grassland",
 "biome": "wythers:ice_cap",
-"biome": "wythers:icy_crags",
+    "biome": "wythers:icy_crags",
 "biome": "wythers:icy_ocean",
     "biome": "wythers:icy_river",
 "biome": "wythers:icy_shore",
@@ -158,7 +158,7 @@
     "biome": "wythers:jacaranda_savanna",
     "biome": "wythers:jade_highlands",
 "biome": "wythers:jungle_canyon",
-"biome": "wythers:jungle_island",
+    "biome": "wythers:jungle_island",
     "biome": "wythers:jungle_river",
 "biome": "wythers:kwongan_heath",
     "biome": "wythers:lantern_river",
@@ -171,13 +171,13 @@
 "biome": "wythers:lush_shroom_caves",
     "biome": "wythers:maple_mountains",
 "biome": "wythers:marsh",
-"biome": "wythers:mediterranean_island",
-"biome": "wythers:mediterranean_island_thermal_springs",
+    "biome": "wythers:mediterranean_island",
+    "biome": "wythers:mediterranean_island_thermal_springs",
 "biome": "wythers:mossy_caves",
 "biome": "wythers:mossy_dripstone_caves",
 "biome": "wythers:mud_pools",
 "biome": "wythers:mushroom_caves",
-"biome": "wythers:mushroom_island",
+    "biome": "wythers:mushroom_island",
     "biome": "wythers:old_growth_taiga_crags",
     "biome": "wythers:old_growth_taiga_swamp",
     "biome": "wythers:outback",
@@ -199,11 +199,11 @@
     "biome": "wythers:savanna_river",
     "biome": "wythers:scrub_forest",
     "biome": "wythers:scrubland",
-"biome": "wythers:snowy_bog",
-"biome": "wythers:snowy_canyon",
-"biome": "wythers:snowy_fen",
+    "biome": "wythers:snowy_bog",
+    "biome": "wythers:snowy_canyon",
+    "biome": "wythers:snowy_fen",
     "biome": "wythers:snowy_peaks",
-"biome": "wythers:snowy_thermal_taiga",
+    "biome": "wythers:snowy_thermal_taiga",
     "biome": "wythers:snowy_tundra",
 "biome": "wythers:sparse_bamboo_jungle",
 "biome": "wythers:sparse_eucalyptus_jungle",
@@ -216,7 +216,7 @@
 "biome": "wythers:subtropical_grassland",
     "biome": "wythers:taiga_crags",
 "biome": "wythers:tangled_forest",
-"biome": "wythers:temperate_island",
+    "biome": "wythers:temperate_island",
 "biome": "wythers:temperate_rainforest",
 "biome": "wythers:temperate_rainforest_crags",
 "biome": "wythers:tepui",
@@ -228,7 +228,7 @@
 "biome": "wythers:tropical_forest_canyon",
     "biome": "wythers:tropical_forest_river",
 "biome": "wythers:tropical_grassland",
-"biome": "wythers:tropical_island",
+    "biome": "wythers:tropical_island",
 "biome": "wythers:tropical_rainforest",
 "biome": "wythers:tropical_volcano",
     "biome": "wythers:tsingy_forest",
@@ -245,7 +245,26 @@
     "biome": "wythers:wooded_desert",
     "biome": "wythers:wooded_savanna",
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Second pass (tabbed = enabled)
+^.*\{\n.*"biome": "minecraft:(badlands|bamboo_jungle|birch_forest|dark_forest|desert|eroded_badlands|flower_forest|forest|frozen_peaks|frozen_river|grove|ice_spikes|jagged_peaks|jungle|mangrove_swamp|meadow|old_growth_birch_forest|old_growth_pine_taiga|old_growth_spruce_taiga|plains|river|savanna|savanna_plateau|snowy_plains|snowy_slopes|snowy_taiga|sparse_jungle|stony_peaks|sunflower_plains|swamp|taiga|windswept_forest|windswept_gravelly_hills|windswept_hills|windswept_savanna|wooded_badlands)",[\S\s]*?\},
 
 "biome": "minecraft:badlands",
 "biome": "minecraft:bamboo_jungle",
@@ -270,11 +289,11 @@
 "biome": "minecraft:ice_spikes",
 "biome": "minecraft:jagged_peaks",
 "biome": "minecraft:jungle",
-"biome": "minecraft:lukewarm_ocean",
+    "biome": "minecraft:lukewarm_ocean",
     "biome": "minecraft:lush_caves",
 "biome": "minecraft:mangrove_swamp",
 "biome": "minecraft:meadow",
-"biome": "minecraft:mushroom_fields",
+    "biome": "minecraft:mushroom_fields",
     "biome": "minecraft:ocean",
 "biome": "minecraft:old_growth_birch_forest",
 "biome": "minecraft:old_growth_pine_taiga",
