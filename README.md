@@ -8,7 +8,6 @@ TODO one day
 
 - [Dungeons and Taverns](https://modrinth.com/datapack/dungeons-and-taverns)
 - [Dungeons and Taverns: Ocean Monument Replacement](https://modrinth.com/datapack/dungeons-and-taverns-ocean-monument-replacement)
-- [Geophilic (might remove?)](https://modrinth.com/datapack/geophilic)
 - [Hopo Better Underwater Ruins](https://modrinth.com/datapack/hopo-better-underwater-ruins)
 - [NoFun DnT](https://modrinth.com/datapack/nofun-dnt)
 - [Pretty Beaches](https://modrinth.com/mod/pretty-beaches)
@@ -39,6 +38,7 @@ TODO one day
 - [Alcohol Only](https://modrinth.com/mod/alcohol-mod)
 - [Exposure](https://modrinth.com/mod/exposure) (1.20.1 only...)
 - [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves)
+- [Musket Mod](https://modrinth.com/mod/musket-mod)
 - [Pesky Seagulls](https://modrinth.com/mod/pesky-seagulls)
 - [Small Ships](https://modrinth.com/mod/small-ships)
 - [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
@@ -76,6 +76,7 @@ TODO one day
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 - [No Telemetry](https://modrinth.com/mod/no-telemetry)
+- [Remove Reloading Screen](https://modrinth.com/mod/rrls)
 
 ### Libraries
 

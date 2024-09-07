@@ -1,13 +1,13 @@
 name = "Vanilla Fireflies"
-filename = "vanilla-fireflies-1.1.jar"
+filename = "vanilla-fireflies-2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dxiyDLYV/versions/XOfokGf5/vanilla-fireflies-1.1.jar"
+url = "https://cdn.modrinth.com/data/dxiyDLYV/versions/YgsKRgbd/vanilla-fireflies-2.0.jar"
 hash-format = "sha1"
-hash = "a4fe4df95b535f5b112fd94b23cd36fe88e3c4b9"
+hash = "309552d2d7985a10fd1a2c9fb35e4ed2b7415ddc"
 
 [update]
 [update.modrinth]
 mod-id = "dxiyDLYV"
-version = "XOfokGf5"
+version = "YgsKRgbd"
