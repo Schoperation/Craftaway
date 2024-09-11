@@ -1,0 +1,9 @@
+{
+	"additionalRangedWeapons": [
+		"musketmod:musket_with_scope",
+		"musketmod:blunderbuss",
+		"musketmod:pistol",
+		"musketmod:musket_with_bayonet",
+		"musketmod:musket"
+	]
+}

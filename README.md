@@ -10,6 +10,7 @@ TODO one day
 - [Dungeons and Taverns: Ocean Monument Replacement](https://modrinth.com/datapack/dungeons-and-taverns-ocean-monument-replacement)
 - [Hopo Better Underwater Ruins](https://modrinth.com/datapack/hopo-better-underwater-ruins)
 - [NoFun DnT](https://modrinth.com/datapack/nofun-dnt)
+- [Nullscape](https://modrinth.com/mod/nullscape)
 - [Pretty Beaches](https://modrinth.com/mod/pretty-beaches)
 - [Survival Islands ~ rare medium isles preset](https://modrinth.com/mod/survival-islands)
 - [This Rocks!](https://modrinth.com/mod/this-rocks)
@@ -24,6 +25,7 @@ TODO one day
 - [Better Babies](https://modrinth.com/datapack/better-babies)
 - [Better Turtle Helmets](https://modrinth.com/mod/better-turtle-helmets)
 - [Copper Uses](https://modrinth.com/datapack/copper-uses)
+- [Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)
 - [Dynamic Lights](https://modrinth.com/datapack/dynamic-lights)
 - [FallingTree](https://modrinth.com/mod/fallingtree)
 - [Fishing Real](https://modrinth.com/mod/fishing-real)
@@ -31,6 +33,7 @@ TODO one day
 - [Info Tools](https://modrinth.com/datapack/info-tools)
 - [Northern Compass](https://modrinth.com/mod/northerncompass)
 - [Revamped Shipwrecks](https://modrinth.com/datapack/revamped-shipwrecks)
+- [Rolling Down in the Deep](https://modrinth.com/mod/rolling-down-in-the-deep)
 - [Spyglass Improvements](https://modrinth.com/mod/spyglass-improvements)
 - [Stonecutter Armor Stands](https://modrinth.com/datapack/stonecutter-armor-stands)
 - [Trees Make Sound](https://modrinth.com/mod/trees-make-sound)
@@ -48,6 +51,7 @@ TODO one day
 - [Small Ships](https://modrinth.com/mod/small-ships)
 - [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
 - [Tom's Mobs](https://modrinth.com/mod/toms-mobs)
+- [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack)
 - [Valhesia Furniture](https://modrinth.com/mod/valhelsia-furniture)
 - [Variants and Ventures](https://modrinth.com/mod/variants-and-ventures)
 
@@ -61,15 +65,14 @@ TODO one day
 - [Blur](https://modrinth.com/mod/blur-fabric)
 - [Chunks fade in](https://modrinth.com/mod/chunks-fade-in)
 - [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
-- [Dynamic Crosshair Compat](https://modrinth.com/mod/dynamiccrosshaircompat) (1.20.1 only...)
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves)
 - [Fishing Rod Fix](https://modrinth.com/mod/fishing-rod-fix)
 - [ImmersiveThunder](https://modrinth.com/mod/immersivethunder)
 - [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)
+- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
 - [Particle Rain](https://modrinth.com/mod/particle-rain)
 - [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
-- [Vanilla Fireflies](https://modrinth.com/datapack/vanilla-fireflies)
 - [Wakes](https://modrinth.com/mod/wakes)
 
 ### Performance
@@ -88,6 +91,8 @@ TODO one day
 ### Libraries
 
 - [Balm](https://modrinth.com/mod/balm)
+- [Cardinal Commponents API](https://modrinth.com/mod/cardinal-components-api)
+- [Cicada](https://modrinth.com/mod/cicada)
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [CreativeCore](https://modrinth.com/mod/creativecore)
 - [Cristel Lib](https://modrinth.com/mod/cristel-lib)

@@ -6,11 +6,15 @@ hash = "52f101964b80a4126a02249027d2005af26e15071c0cd335d57bbc3b67bb6ec2"
 
 [[files]]
 file = "config/boring_default_game_rules/config.json"
-hash = "4cfe5fcae869ad527eb2dafa95b7ce5725a76dad531e20eaf66e3c4a45c9b769"
+hash = "60fdd9be046bc0dfdda4867ab50df17b1e729edf5f49a27225f055da2d38480e"
 
 [[files]]
 file = "config/boring_default_game_rules/config.schema.json"
 hash = "56850a73c061fc8781ff3de244e845c831b68f22de7e20ea2a965f94017e883d"
+
+[[files]]
+file = "config/dynamiccrosshair.json5"
+hash = "63744acf67ea580e3356f0cf1d6c9cdbfef11cd8e625172c700086b589f9c262"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -114,8 +118,18 @@ hash = "3aa2ba82183e123f463b8b7e44eae68cc08539227f8e948feab20fe7c3eb59bb"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "8d3a73c7560528d03702aa42746a89990f7ddc255c7070e889fdc938ee264872"
+metafile = true
+
+[[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "1d40fad1dfa779cfa3a7fb14e90cf09fef4254fc2b649acbdb373ed270b35244"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "8c3342aeba36b5ff34c10f0ad6c13bbeb7ea4f040683aba80e83776697ceda0d"
 metafile = true
 
 [[files]]
@@ -141,6 +155,11 @@ metafile = true
 [[files]]
 file = "mods/developer-resources.pw.toml"
 hash = "a421e7575eda0c142eaea7a7f5ef9fe2e896004738fb6cc78a7c8bc4f91ee803"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "fc3dd0b7562e5d57d0b95588ab5f961f9cfa4c622c90e27d41b5fcaf2638c178"
 metafile = true
 
 [[files]]
@@ -294,6 +313,16 @@ hash = "7b2ffb48d9ad6f195325d61f8f401dafdbe45bc9da87103052ed976ff0a3fe05"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "601b4cdbd392d5abae9144ea83c4b93a362f33b60411a32059feeb73d12fe029"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "d41097a22b91bb1af8014760f9f518daf10225e274c5b5d60a73d560447b9576"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "cf9c644deaab6574ddedffd82d03065bd152f56a7845d721080dfd38ba58c281"
 metafile = true
@@ -326,6 +355,11 @@ metafile = true
 [[files]]
 file = "mods/revamped-shipwrecks.pw.toml"
 hash = "1b0adddbf6e6f52770c03b52e38ab1743ee959a98f585000ce3f51e08e7a86e9"
+metafile = true
+
+[[files]]
+file = "mods/rolling-down-in-the-deep.pw.toml"
+hash = "b2fcecb79c36d3b916bac4a7d5e5222c5910396ee3cef9dd49d858a78850d7ff"
 metafile = true
 
 [[files]]
@@ -389,6 +423,11 @@ hash = "974f130d4bd4168f4673f0134ee692d9dbadce30b7785f81aec62ba974a112ac"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "57d9634c2d611781d9f61c07a635800ce0360a1dada8c4b7ecdc2677e57eccd8"
+metafile = true
+
+[[files]]
 file = "mods/trees-make-sound.pw.toml"
 hash = "1709aba4a5bfb6520eb8f8bed3dbf9eb808fb4d768e8c3b9dfaf08c71b8b000a"
 metafile = true
@@ -401,11 +440,6 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-furniture.pw.toml"
 hash = "389862e7f68dc337f62142cf702c459358206b3e3cb320c0719cf087f6399db2"
-metafile = true
-
-[[files]]
-file = "mods/vanilla-fireflies.pw.toml"
-hash = "de4dea79318d70098b896dcb21965c87a6c14009f080137a51a5a642cee83b75"
 metafile = true
 
 [[files]]
