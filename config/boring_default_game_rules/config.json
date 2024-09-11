@@ -2,7 +2,7 @@
 	"$schema": "file:///home/schoperation/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/Craftaway-0.1.0/.minecraft/config/boring_default_game_rules/config.schema.json",
 	"default_game_rules": {
 		"doInsomnia": false,
-		"doLimitedCrafting": true,
+		"doLimitedCrafting": false,
 		"spectatorsGenerateChunks": false,
 		"reducedDebugInfo": false
 	},

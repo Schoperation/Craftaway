@@ -21,6 +21,7 @@ TODO one day
 ### Mechanics & Mechanical Tweaks
 
 - [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4)
+- [Better Babies](https://modrinth.com/datapack/better-babies)
 - [Better Turtle Helmets](https://modrinth.com/mod/better-turtle-helmets)
 - [Copper Uses](https://modrinth.com/datapack/copper-uses)
 - [Dynamic Lights](https://modrinth.com/datapack/dynamic-lights)
@@ -29,6 +30,7 @@ TODO one day
 - [Fish No Stuck](https://modrinth.com/mod/fish-no-stuck)
 - [Info Tools](https://modrinth.com/datapack/info-tools)
 - [Northern Compass](https://modrinth.com/mod/northerncompass)
+- [Revamped Shipwrecks](https://modrinth.com/datapack/revamped-shipwrecks)
 - [Spyglass Improvements](https://modrinth.com/mod/spyglass-improvements)
 - [Stonecutter Armor Stands](https://modrinth.com/datapack/stonecutter-armor-stands)
 - [Trees Make Sound](https://modrinth.com/mod/trees-make-sound)
@@ -36,13 +38,17 @@ TODO one day
 ### New Stuff
 
 - [Alcohol Only](https://modrinth.com/mod/alcohol-mod)
-- [Exposure](https://modrinth.com/mod/exposure) (1.20.1 only...)
+- [Beautify: Refabricated](https://modrinth.com/mod/beautify-refabricated)
+- [Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated)
 - [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves)
+- [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 - [Musket Mod](https://modrinth.com/mod/musket-mod)
+- [Ocean's Delight](https://modrinth.com/mod/oceans-delight)
 - [Pesky Seagulls](https://modrinth.com/mod/pesky-seagulls)
 - [Small Ships](https://modrinth.com/mod/small-ships)
 - [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
 - [Tom's Mobs](https://modrinth.com/mod/toms-mobs)
+- [Valhesia Furniture](https://modrinth.com/mod/valhelsia-furniture)
 - [Variants and Ventures](https://modrinth.com/mod/variants-and-ventures)
 
 ### Client-Only Aesthetics
@@ -73,6 +79,7 @@ TODO one day
 ### Utilities
 
 - [Global Packs](https://modrinth.com/mod/globalpacks)
+- [Just Enough Items](https://modrinth.com/mod/jei)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 - [No Telemetry](https://modrinth.com/mod/no-telemetry)
@@ -84,6 +91,7 @@ TODO one day
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [CreativeCore](https://modrinth.com/mod/creativecore)
 - [Cristel Lib](https://modrinth.com/mod/cristel-lib)
+- [Data API](https://modrinth.com/datapack/developer-resources)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
@@ -91,4 +99,5 @@ TODO one day
 - [MRU](https://modrinth.com/mod/mru)
 - [Polymer](https://modrinth.com/mod/polymer)
 - [SmartBrainLib](https://modrinth.com/mod/smartbrainlib)
+- [Valhesia Core](https://modrinth.com/mod/valhelsia-core)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)

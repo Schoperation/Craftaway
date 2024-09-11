@@ -70,12 +70,22 @@ metafile = true
 
 [[files]]
 file = "mods/astrocraft.pw.toml"
-hash = "402bcee3d7f9d40771e6b04cadb9b087fe7592a8d37bb078fd0fcf5bf16b4b30"
+hash = "20a5e906802c2e6e043ec1e0cc4ded5aa47d300c982ca0325ac5d6298e7c17d5"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "77cba89986eae4a5a2d693a2e169cd91338127f625663bc26741094a75616bbb"
+metafile = true
+
+[[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "362abea0e6f80016849b50522d9ec4c5b622191543e62eb2aff8b4f083f07636"
+metafile = true
+
+[[files]]
+file = "mods/better-babies.pw.toml"
+hash = "5129474d6f1820cf119c55d95f5a252c9756f77b0d279d6267e4a45114f527ca"
 metafile = true
 
 [[files]]
@@ -129,6 +139,11 @@ hash = "4d3e420ddabf2d1db3a4884a7a11f313543eb634217607acf7d05d63783a7864"
 metafile = true
 
 [[files]]
+file = "mods/developer-resources.pw.toml"
+hash = "a421e7575eda0c142eaea7a7f5ef9fe2e896004738fb6cc78a7c8bc4f91ee803"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
 hash = "0bbd235a608c0d047f8a65576db6835084d7521c47a92797a1c86dc85780388e"
 metafile = true
@@ -176,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "02e0c56861a6550ef7e25540864951fb7d29eb628d9ef57e79a37e3b7bea5684"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "709c89ecb51a5de40fd2703ea645e1be1c9b559ae1a04f9cefa118db1a9d3ccd"
 metafile = true
 
 [[files]]
@@ -229,6 +249,16 @@ hash = "1ab927cfc1a59156540f692c765a4846ada66f07385572771845062f2c7ea90d"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "8dae99d0aa68d663c53d1dc51ee04a7622038c2ddf7a1515ec220e7dca9678b6"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "5c1fe59c96c047dfc2af09204cbf42620be5b1830a215e5cb2663fe1ac65521d"
+metafile = true
+
+[[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "79f0958db94d007778f03da083f9d75077978e3cc04b23f1081ecb2d6a4906b4"
 metafile = true
@@ -264,6 +294,11 @@ hash = "7b2ffb48d9ad6f195325d61f8f401dafdbe45bc9da87103052ed976ff0a3fe05"
 metafile = true
 
 [[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "cf9c644deaab6574ddedffd82d03065bd152f56a7845d721080dfd38ba58c281"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "786742202cd112bf82f376e06e4bb8638b421d54cdf614e01f00828178d7efd6"
 metafile = true
@@ -286,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/pretty-beaches.pw.toml"
 hash = "49ee46c74659f72b1b19cdf9dd865ac58b1743ae0d447eb130c459c318f359e5"
+metafile = true
+
+[[files]]
+file = "mods/revamped-shipwrecks.pw.toml"
+hash = "1b0adddbf6e6f52770c03b52e38ab1743ee959a98f585000ce3f51e08e7a86e9"
 metafile = true
 
 [[files]]
@@ -351,6 +391,16 @@ metafile = true
 [[files]]
 file = "mods/trees-make-sound.pw.toml"
 hash = "1709aba4a5bfb6520eb8f8bed3dbf9eb808fb4d768e8c3b9dfaf08c71b8b000a"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "eda6e3cebaf23dcc7f18ff4f028af8d42470493406b87a57a9b46efa527a0200"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-furniture.pw.toml"
+hash = "389862e7f68dc337f62142cf702c459358206b3e3cb320c0719cf087f6399db2"
 metafile = true
 
 [[files]]
