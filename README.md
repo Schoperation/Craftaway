@@ -22,10 +22,11 @@ TODO one day
 ### Mechanics & Mechanical Tweaks
 
 - [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4)
-- [Better Babies](https://modrinth.com/datapack/better-babies)
 - [Better Turtle Helmets](https://modrinth.com/mod/better-turtle-helmets)
+- [Carry On](https://modrinth.com/mod/carry-on)
 - [Copper Uses](https://modrinth.com/datapack/copper-uses)
 - [Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 - [Dynamic Lights](https://modrinth.com/datapack/dynamic-lights)
 - [FallingTree](https://modrinth.com/mod/fallingtree)
 - [Fishing Real](https://modrinth.com/mod/fishing-real)
@@ -41,7 +42,9 @@ TODO one day
 ### New Stuff
 
 - [Alcohol Only](https://modrinth.com/mod/alcohol-mod)
+- [Bag of Holding](https://modrinth.com/mod/bag-of-holding)
 - [Beautify: Refabricated](https://modrinth.com/mod/beautify-refabricated)
+- [Comforts](https://modrinth.com/mod/comforts)
 - [Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated)
 - [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves)
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
@@ -51,7 +54,6 @@ TODO one day
 - [Small Ships](https://modrinth.com/mod/small-ships)
 - [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
 - [Tom's Mobs](https://modrinth.com/mod/toms-mobs)
-- [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack)
 - [Valhesia Furniture](https://modrinth.com/mod/valhelsia-furniture)
 - [Variants and Ventures](https://modrinth.com/mod/variants-and-ventures)
 
@@ -90,6 +92,7 @@ TODO one day
 
 ### Libraries
 
+- [Architectury API](https://modrinth.com/mod/architectury-api)
 - [Balm](https://modrinth.com/mod/balm)
 - [Cardinal Commponents API](https://modrinth.com/mod/cardinal-components-api)
 - [Cicada](https://modrinth.com/mod/cicada)
@@ -103,6 +106,7 @@ TODO one day
 - [Indium](https://modrinth.com/mod/indium)
 - [MRU](https://modrinth.com/mod/mru)
 - [Polymer](https://modrinth.com/mod/polymer)
+- [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
 - [SmartBrainLib](https://modrinth.com/mod/smartbrainlib)
 - [Valhesia Core](https://modrinth.com/mod/valhelsia-core)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)

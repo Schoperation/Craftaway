@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "biomes"
+hash = "957057c43acbb4d65889cc4b6f7d5002d4aca145cafd5bf912304e8a4d6debfd"
+
+[[files]]
 file = "config/astrocraft.json"
 hash = "52f101964b80a4126a02249027d2005af26e15071c0cd335d57bbc3b67bb6ec2"
 
@@ -73,8 +77,18 @@ hash = "e2ad2c7871691fc76ef896103c24722fe8195d71e9ccbb9c7931f2a689af63bd"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
+metafile = true
+
+[[files]]
 file = "mods/astrocraft.pw.toml"
 hash = "20a5e906802c2e6e043ec1e0cc4ded5aa47d300c982ca0325ac5d6298e7c17d5"
+metafile = true
+
+[[files]]
+file = "mods/bag-of-holding.pw.toml"
+hash = "d38e2586d2f8c62c58afbbfd1649ff5515881203caa8e7559450f09132f53cf7"
 metafile = true
 
 [[files]]
@@ -85,11 +99,6 @@ metafile = true
 [[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "362abea0e6f80016849b50522d9ec4c5b622191543e62eb2aff8b4f083f07636"
-metafile = true
-
-[[files]]
-file = "mods/better-babies.pw.toml"
-hash = "5129474d6f1820cf119c55d95f5a252c9756f77b0d279d6267e4a45114f527ca"
 metafile = true
 
 [[files]]
@@ -123,6 +132,11 @@ hash = "8d3a73c7560528d03702aa42746a89990f7ddc255c7070e889fdc938ee264872"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "d5f2d2d1b9bd79dd850c1091a5b78e1865edd373be7b743c941bde0f10c078cb"
+metafile = true
+
+[[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "1d40fad1dfa779cfa3a7fb14e90cf09fef4254fc2b649acbdb373ed270b35244"
 metafile = true
@@ -135,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "0d7fb8cd97b8e670839ea475b63df903039890bddfb14b2c6ddcf0a1980059af"
 metafile = true
 
 [[files]]
@@ -155,6 +174,11 @@ metafile = true
 [[files]]
 file = "mods/developer-resources.pw.toml"
 hash = "a421e7575eda0c142eaea7a7f5ef9fe2e896004738fb6cc78a7c8bc4f91ee803"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "7c4410424962acf607a4b2ff1e522553bdf742d6025ad077772d4d9ec7ef5e50"
 metafile = true
 
 [[files]]
@@ -269,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "8dae99d0aa68d663c53d1dc51ee04a7622038c2ddf7a1515ec220e7dca9678b6"
+hash = "a89570545b9c825f6871328568d90ed0ec5ce57efd9d34868cdc117bb9a50f02"
 metafile = true
 
 [[files]]
@@ -353,6 +377,11 @@ hash = "49ee46c74659f72b1b19cdf9dd865ac58b1743ae0d447eb130c459c318f359e5"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "e256b952df1dfd9ba362ca7d7d176dd29434cb6721f14ee5c99995df94490465"
+metafile = true
+
+[[files]]
 file = "mods/revamped-shipwrecks.pw.toml"
 hash = "1b0adddbf6e6f52770c03b52e38ab1743ee959a98f585000ce3f51e08e7a86e9"
 metafile = true
@@ -420,11 +449,6 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "974f130d4bd4168f4673f0134ee692d9dbadce30b7785f81aec62ba974a112ac"
-metafile = true
-
-[[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "57d9634c2d611781d9f61c07a635800ce0360a1dada8c4b7ecdc2677e57eccd8"
 metafile = true
 
 [[files]]
