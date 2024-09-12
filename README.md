@@ -63,6 +63,7 @@ TODO one day
 - [AmbientSounds](https://modrinth.com/mod/ambientsounds)
 - [Astrocraft](https://modrinth.com/mod/astrocraft)
 - [Better Clouds](https://modrinth.com/mod/better-clouds)
+- [Better F3](https://modrinth.com/mod/betterf3)
 - [Bounced](https://modrinth.com/mod/bounced)
 - [Blur](https://modrinth.com/mod/blur-fabric)
 - [Chunks fade in](https://modrinth.com/mod/chunks-fade-in)

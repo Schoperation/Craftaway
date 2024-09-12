@@ -9,8 +9,12 @@ file = "config/astrocraft.json"
 hash = "52f101964b80a4126a02249027d2005af26e15071c0cd335d57bbc3b67bb6ec2"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "7ac8a6e16f2e7c12b7e898a8a77537ca6e0afa5e52083f4bae7e7464fb6736e5"
+
+[[files]]
 file = "config/boring_default_game_rules/config.json"
-hash = "60fdd9be046bc0dfdda4867ab50df17b1e729edf5f49a27225f055da2d38480e"
+hash = "3263ff437b6df660be01bc86b7e9d0e473cdb6710ff4ef184d9c940012cd940e"
 
 [[files]]
 file = "config/boring_default_game_rules/config.schema.json"
@@ -25,10 +29,6 @@ file = "config/fallingtree.json"
 hash = "6307db332dfe3ce2788a538f529f850340f2b65b0f3b604aaa8080aa4b348c2b"
 
 [[files]]
-file = "config/natures_spirit_1.6.0.3-1.21.json"
-hash = "f45a0e556a97bb1de81dbf0da176f58258b42625091058a2348a88a789b8f95c"
-
-[[files]]
 file = "config/presencefootsteps/updater.json"
 hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
@@ -39,10 +39,6 @@ hash = "89c0cb5d28ab020c57d7186b509eab187b9137287593ba1cab343a7cdb15194a"
 [[files]]
 file = "config/wakes.json"
 hash = "d668e47d762e646e96523845d88f6a92946d0f4aa0aad0369c43d0d6efa3656a"
-
-[[files]]
-file = "config/water_vision.json"
-hash = "f8e37270acdd5b570f7d295ea41708edc34b4a0c421e976735ed93c0727c7337"
 
 [[files]]
 file = "global_packs/optional_data/Craftaway_Biomes.zip"
@@ -109,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/better-turtle-helmets.pw.toml"
 hash = "48cab9e9bff66478667460af5b367f7a4c4f94a663d776122e0e015c6aa4ed64"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7c801232a6e7b3930c6c6f47f2c4cd77a539f28bc41e6d54e1710c2736d8a46f"
 metafile = true
 
 [[files]]

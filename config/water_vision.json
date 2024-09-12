@@ -1,8 +1,0 @@
-{
-	"enable": true,
-	"scale_close": 1.4E-45,
-	"scale_far": 75.0,
-	"enableTransition": true,
-	"transitionMultiplier": 2.0,
-	"transitionLeaveMultiplier": 3
-}
