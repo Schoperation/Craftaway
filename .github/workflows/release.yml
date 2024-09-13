@@ -1,0 +1,39 @@
+name: Export And Release Modpack
+
+on:
+  push:
+    branches:
+        - master
+  workflow_dispatch:
+
+jobs:
+  export-and-release:
+    runs-on: ubuntu-latest
+    permissions:
+        contents: write
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+    
+      - name: Download Packwiz
+        run: |
+            wget https://github.com/packwiz/packwiz/actions/runs/10602235974/artifacts/1866308035
+            unzip Linux\ 64-bit\ x86
+
+      - name: Set Version
+        run: |
+            echo "MODPACK_VERSION=$(cat version.txt)" >> $GITHUB_ENV
+
+      - name: Export to CurseForge Pack File 
+        run: ./packwiz mr export
+
+      - name: Create Release
+        uses: ncipollo/release-action@v1.12.0
+        with:
+            commit: "master"
+            tag: ${{ env.MODPACK_VERSION }}
+            artifacts: "*.mrpack"
+            generateReleaseNotes: true
+            makeLatest: true
+            skipIfReleaseExists: true
