@@ -14,11 +14,11 @@ jobs:
 
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
     
       - name: Download Packwiz
         run: |
-            wget https://github.com/packwiz/packwiz/actions/runs/10602235974/artifacts/1866308035
+            wget -L https://github.com/packwiz/packwiz/actions/runs/10602235974/artifacts/1866308035
             unzip Linux\ 64-bit\ x86
 
       - name: Set Version
