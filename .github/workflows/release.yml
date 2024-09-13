@@ -20,6 +20,7 @@ jobs:
         run: |
             wget -L https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
             unzip Linux\ 64-bit\ x86
+            chmod +x packwiz
 
       - name: Set Version
         run: |
