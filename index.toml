@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "biomes"
-hash = "957057c43acbb4d65889cc4b6f7d5002d4aca145cafd5bf912304e8a4d6debfd"
-
-[[files]]
 file = "config/astrocraft.json"
 hash = "52f101964b80a4126a02249027d2005af26e15071c0cd335d57bbc3b67bb6ec2"
 
@@ -41,15 +37,11 @@ file = "config/wakes.json"
 hash = "d668e47d762e646e96523845d88f6a92946d0f4aa0aad0369c43d0d6efa3656a"
 
 [[files]]
-file = "global_packs/optional_data/Craftaway_Biomes.zip"
-hash = "e0dd743d9ec2cc412bbfb9597066f18031f523725f1d5d105cb78e77ba198176"
-
-[[files]]
-file = "global_packs/optional_data/Craftaway_Biomes_4.zip"
+file = "global_packs/required_data/Craftaway_Biome_Overrides.zip"
 hash = "7721d07e70a22336ea1fb8eb4410a5d19d6a4c6110f979ca6fa65a10227e3454"
 
 [[files]]
-file = "global_packs/optional_data/Survival_Islands_rare_medium_islands.zip"
+file = "global_packs/required_data/Survival_Islands_rare_medium_islands.zip"
 hash = "e5cf56e69ed3cda88d3cb19fa344cf69f912b81698a5b405abb2a1c6f56278a7"
 
 [[files]]
@@ -208,6 +200,11 @@ hash = "ac672dd8b4cb969b5ba56b27ef70d2129fb40f5f52ec674625a7823bc67988a1"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "444ec76f51b9713378aa4c900ca583a7df0888f89e76b76ae8cf5293d9cb51ab"
+metafile = true
+
+[[files]]
 file = "mods/ewewukeks-musket-mod.pw.toml"
 hash = "b6a5ee84b8dc3ee9d0712aa306c7855d06d09a53b7cf7a576efe22b51e4d09bc"
 metafile = true
@@ -240,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "709c89ecb51a5de40fd2703ea645e1be1c9b559ae1a04f9cefa118db1a9d3ccd"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
 
 [[files]]
@@ -278,6 +280,11 @@ hash = "7f5daaefb27d5af11835b8f211072fde6cbcf36b6437be70833ea02220b2c4b6"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "ae42dc97752bf2031b0fb77994ab04e51e5569a637f2f9ee6a98937053b0d290"
+metafile = true
+
+[[files]]
 file = "mods/immersivethunder.pw.toml"
 hash = "9de7f5ad5ff476a24de9c7932cafc4e0566a33d9e35489e2ed0b0d5774f1424f"
 metafile = true
@@ -293,8 +300,18 @@ hash = "1ab927cfc1a59156540f692c765a4846ada66f07385572771845062f2c7ea90d"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "89e7dde92d47d33e4430422f77a85ebd54cc5d8a1391758460ab4c6d00f01340"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "a89570545b9c825f6871328568d90ed0ec5ce57efd9d34868cdc117bb9a50f02"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "f004eac1859218b35a865698a68000b21806709f02b54b2a2ef55ff04a793328"
 metafile = true
 
 [[files]]
@@ -305,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "79f0958db94d007778f03da083f9d75077978e3cc04b23f1081ecb2d6a4906b4"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "ebbaf07d4e04f172081d5f4bec47837ae1008c5a6dbedc32f7ba471dd3d004cd"
 metafile = true
 
 [[files]]
@@ -486,3 +508,11 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Flintl0cks_v2.0.zip"
+hash = "4affc2262b5339feec457365b5f81574e8a673ede376f1b740db7539a7a4fe10"
+
+[[files]]
+file = "resourcepacks/Musketmod(v1.4.5)- Michail01011101's alternative sounds_v2.3.7.zip"
+hash = "86d73d18dbd5ec72f19b7cb8ebba22effd99eee4b7ff0a3b7be2a350dc846739"

@@ -80,11 +80,17 @@ TODO one day
 
 ### Performance
 
+- [EntityCulling](https://modrinth.com/mod/entityculling)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+- [Lithium](https://modrinth.com/mod/lithium)
+- [ModernFix](https://modrinth.com/mod/modernfix)
 - [Sodium](https://modrinth.com/mod/sodium)
 
 ### Utilities
 
 - [Global Packs](https://modrinth.com/mod/globalpacks)
+- [Iris Shaders](https://modrinth.com/mod/iris)
 - [Just Enough Items](https://modrinth.com/mod/jei)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
