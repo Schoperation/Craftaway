@@ -18,7 +18,7 @@ jobs:
     
       - name: Download Packwiz
         run: |
-            wget -L https://github.com/packwiz/packwiz/actions/runs/10602235974/artifacts/1866308035
+            wget -L -k --no-check-certificates https://github.com/packwiz/packwiz/actions/runs/10602235974/artifacts/1866308035
             unzip Linux\ 64-bit\ x86
 
       - name: Set Version
