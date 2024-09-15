@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ambientsounds-client.json"
+hash = "f0a82fc834c209bf62ea25313329b6992e883a6e3acd8e5149a42e9e5c692ee9"
+
+[[files]]
 file = "config/astrocraft.json"
 hash = "52f101964b80a4126a02249027d2005af26e15071c0cd335d57bbc3b67bb6ec2"
 
@@ -43,6 +47,10 @@ hash = "7721d07e70a22336ea1fb8eb4410a5d19d6a4c6110f979ca6fa65a10227e3454"
 [[files]]
 file = "global_packs/required_data/Survival_Islands_rare_medium_islands.zip"
 hash = "e5cf56e69ed3cda88d3cb19fa344cf69f912b81698a5b405abb2a1c6f56278a7"
+
+[[files]]
+file = "global_packs/required_resources/Craftaway_Resources.zip"
+hash = "3484f408c50e98d03db633c1e988445b5509e0cc4b246e1d9ca91ba2b33f9213"
 
 [[files]]
 file = "mods/alcohol-mod.pw.toml"
@@ -306,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a89570545b9c825f6871328568d90ed0ec5ce57efd9d34868cdc117bb9a50f02"
+hash = "f5e79d29c827b0a136d7e28b858609c3d4edbf65bd8bea90624a9b37d1f5f6ce"
 metafile = true
 
 [[files]]
