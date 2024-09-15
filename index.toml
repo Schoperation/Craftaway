@@ -173,11 +173,6 @@ hash = "4d3e420ddabf2d1db3a4884a7a11f313543eb634217607acf7d05d63783a7864"
 metafile = true
 
 [[files]]
-file = "mods/developer-resources.pw.toml"
-hash = "a421e7575eda0c142eaea7a7f5ef9fe2e896004738fb6cc78a7c8bc4f91ee803"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "7c4410424962acf607a4b2ff1e522553bdf742d6025ad077772d4d9ec7ef5e50"
 metafile = true

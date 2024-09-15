@@ -106,7 +106,6 @@ TODO one day
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [CreativeCore](https://modrinth.com/mod/creativecore)
 - [Cristel Lib](https://modrinth.com/mod/cristel-lib)
-- [Data API](https://modrinth.com/datapack/developer-resources)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
