@@ -73,11 +73,6 @@ hash = "e2ad2c7871691fc76ef896103c24722fe8195d71e9ccbb9c7931f2a689af63bd"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
-metafile = true
-
-[[files]]
 file = "mods/astrocraft.pw.toml"
 hash = "20a5e906802c2e6e043ec1e0cc4ded5aa47d300c982ca0325ac5d6298e7c17d5"
 metafile = true
@@ -125,11 +120,6 @@ metafile = true
 [[files]]
 file = "mods/bounced.pw.toml"
 hash = "3aa2ba82183e123f463b8b7e44eae68cc08539227f8e948feab20fe7c3eb59bb"
-metafile = true
-
-[[files]]
-file = "mods/cardinal-components-api.pw.toml"
-hash = "8d3a73c7560528d03702aa42746a89990f7ddc255c7070e889fdc938ee264872"
 metafile = true
 
 [[files]]
@@ -223,11 +213,6 @@ hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
-metafile = true
-
-[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "9b561d57bf92aa8005e567e4bb95a2b65c8ed9c3ab30de09ea6c7e66f2e4d2da"
 metafile = true
@@ -268,11 +253,6 @@ hash = "65b74cae68bcfdc422dc9a4bb205cb51ed6fa69fafadeb9be14ef4cfa2cf2328"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "dded62ce10d426f4948edb2561bf8c7500c73376708312ae49c118447195d50f"
-metafile = true
-
-[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "c56923340ce6f01a1d26636a15396bf55d83bb8ce68a0ccce515f577bdd322fd"
 metafile = true
@@ -290,11 +270,6 @@ metafile = true
 [[files]]
 file = "mods/immersivethunder.pw.toml"
 hash = "9de7f5ad5ff476a24de9c7932cafc4e0566a33d9e35489e2ed0b0d5774f1424f"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
 
 [[files]]
@@ -335,11 +310,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "2b8ce9ab97a35059a79d59d540687385d25956c519ce1728fbcfb13fae93a328"
-metafile = true
-
-[[files]]
-file = "mods/mru.pw.toml"
-hash = "4b42d246142aabef3c1aeb75e1401ca82c3e76b6467993ff3991dc976e7166e4"
 metafile = true
 
 [[files]]

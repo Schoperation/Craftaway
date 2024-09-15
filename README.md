@@ -99,20 +99,20 @@ TODO one day
 
 ### Libraries
 
-- [Architectury API](https://modrinth.com/mod/architectury-api)
+- [Architectury API](https://modrinth.com/mod/architectury-api) can remove?
 - [Balm](https://modrinth.com/mod/balm)
-- [Cardinal Commponents API](https://modrinth.com/mod/cardinal-components-api)
+- [Cardinal Commponents API](https://modrinth.com/mod/cardinal-components-api) can remove
 - [Cicada](https://modrinth.com/mod/cicada)
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [CreativeCore](https://modrinth.com/mod/creativecore)
 - [Cristel Lib](https://modrinth.com/mod/cristel-lib)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
-- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
-- [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
-- [Indium](https://modrinth.com/mod/indium)
-- [MRU](https://modrinth.com/mod/mru)
+- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) can remove
+- [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) can remove?
+- [Indium](https://modrinth.com/mod/indium) can remove?
+- [MRU](https://modrinth.com/mod/mru) can remove
 - [Polymer](https://modrinth.com/mod/polymer)
-- [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
+- [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) 
 - [SmartBrainLib](https://modrinth.com/mod/smartbrainlib)
 - [Valhesia Core](https://modrinth.com/mod/valhelsia-core)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
