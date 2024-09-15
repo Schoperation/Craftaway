@@ -273,6 +273,11 @@ hash = "9de7f5ad5ff476a24de9c7932cafc4e0566a33d9e35489e2ed0b0d5774f1424f"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
+metafile = true
+
+[[files]]
 file = "mods/info-tools.pw.toml"
 hash = "1ab927cfc1a59156540f692c765a4846ada66f07385572771845062f2c7ea90d"
 metafile = true
