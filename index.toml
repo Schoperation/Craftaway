@@ -50,7 +50,7 @@ hash = "e5cf56e69ed3cda88d3cb19fa344cf69f912b81698a5b405abb2a1c6f56278a7"
 
 [[files]]
 file = "global_packs/required_resources/Craftaway_Resources.zip"
-hash = "3484f408c50e98d03db633c1e988445b5509e0cc4b246e1d9ca91ba2b33f9213"
+hash = "8d9e356b53ed884eb0c3bbb031d8e6ae77dfa4ca5aee7451d67ca09db3401edd"
 
 [[files]]
 file = "mods/alcohol-mod.pw.toml"
