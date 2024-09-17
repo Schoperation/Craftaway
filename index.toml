@@ -363,11 +363,6 @@ hash = "0476c79ed8357d8f2a1edb1dd538c3d8770863d67ca94058d9a8953d4b6b668f"
 metafile = true
 
 [[files]]
-file = "mods/polymer.pw.toml"
-hash = "e523cb9b6aa411a372d3aa21c3f2541f613c4bb5e5e23a72fc0c11bf89f9f168"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "5bef9a443c12a13d5eeefa60bbb0a40ef99ab8a0675cd335a6cc2520dc5ba33b"
 metafile = true
@@ -435,11 +430,6 @@ metafile = true
 [[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "32199cbd26ec74750b0cc74be230dfb070588b22a0869542d04abe66532e1506"
-metafile = true
-
-[[files]]
-file = "mods/toms-mobs.pw.toml"
-hash = "bf4ab5be2ce06d7655f61014e0103ee4a78412c98ae3c5884cf164833fa912d8"
 metafile = true
 
 [[files]]
