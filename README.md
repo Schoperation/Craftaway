@@ -53,7 +53,6 @@ TODO one day
 - [Pesky Seagulls](https://modrinth.com/mod/pesky-seagulls)
 - [Small Ships](https://modrinth.com/mod/small-ships)
 - [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
-- [Tom's Mobs](https://modrinth.com/mod/toms-mobs)
 - [Valhesia Furniture](https://modrinth.com/mod/valhelsia-furniture)
 - [Variants and Ventures](https://modrinth.com/mod/variants-and-ventures)
 
@@ -106,8 +105,8 @@ TODO one day
 - [Cristel Lib](https://modrinth.com/mod/cristel-lib)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Indium](https://modrinth.com/mod/indium)
-- [Polymer](https://modrinth.com/mod/polymer)
 - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) 
 - [SmartBrainLib](https://modrinth.com/mod/smartbrainlib)
+- [Surveyor](https://modrinth.com/mod/surveyor)
 - [Valhesia Core](https://modrinth.com/mod/valhelsia-core)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)

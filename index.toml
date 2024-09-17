@@ -423,6 +423,11 @@ hash = "27fd812dbd815a8ff26e347aec5761386b65ee4efebd722fa4cd301a4b5b34cd"
 metafile = true
 
 [[files]]
+file = "mods/surveyor.pw.toml"
+hash = "99974edb6265ae82c4f8775683cfa9a5ec30a41f70e406efc8179b3ade5665ed"
+metafile = true
+
+[[files]]
 file = "mods/this-rocks.pw.toml"
 hash = "e1fe5089cd36a076dc1e9a54ec45d1d903736e8b33cb6a47c6fab2048d7c8c59"
 metafile = true
