@@ -293,6 +293,11 @@ hash = "f5e79d29c827b0a136d7e28b858609c3d4edbf65bd8bea90624a9b37d1f5f6ce"
 metafile = true
 
 [[files]]
+file = "mods/jrftl.pw.toml"
+hash = "1ea20e556461ce1bc2417ae5873de8d5539837569dc774f6f4f42fc217cf87c0"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "f004eac1859218b35a865698a68000b21806709f02b54b2a2ef55ff04a793328"
 metafile = true

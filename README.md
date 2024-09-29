@@ -32,6 +32,7 @@ TODO one day
 - [Fishing Real](https://modrinth.com/mod/fishing-real)
 - [Fish No Stuck](https://modrinth.com/mod/fish-no-stuck)
 - [Info Tools](https://modrinth.com/datapack/info-tools)
+- [Just Another Rotten Flesh to Leather Mod](https://modrinth.com/mod/jrftl)
 - [Northern Compass](https://modrinth.com/mod/northerncompass)
 - [Revamped Shipwrecks](https://modrinth.com/datapack/revamped-shipwrecks)
 - [Rolling Down in the Deep](https://modrinth.com/mod/rolling-down-in-the-deep)
