@@ -1,12 +1,12 @@
 name = "Craftaway"
 author = "Schoperation"
-version = "1.0.1"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "98a900070b0f07c730b0ab9b98a1d0dd05f039993a63930e3fe1c5321debc691"
+hash = "58b1ca270dbb301f0041c85ce0c6992e479aa3ddda1993656d1843de9ac5b7cf"
 
 [versions]
 fabric = "0.16.3"

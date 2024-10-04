@@ -1,13 +1,13 @@
 name = "William Wythers' Expanded Ecosphere"
-filename = "expanded_ecosphere-fabric-3.4.0.jar"
+filename = "expanded_ecosphere-fabric-3.4.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/O1XGs7ps/versions/7RGXRjhR/expanded_ecosphere-fabric-3.4.0.jar"
-hash-format = "sha1"
-hash = "9f7506f1294280c275370615739c3f4e8bb38345"
+url = "https://cdn.modrinth.com/data/O1XGs7ps/versions/XZsvA8Md/expanded_ecosphere-fabric-3.4.1.jar"
+hash-format = "sha512"
+hash = "d5eb7e71384a443f619dc6cee8d3503a708fa3112800a3f86c56ba74da5712d4ba3593620fd64fd385458c34661b8ad641818d5b1ea44716277ceeae197089c7"
 
 [update]
 [update.modrinth]
 mod-id = "O1XGs7ps"
-version = "7RGXRjhR"
+version = "XZsvA8Md"
