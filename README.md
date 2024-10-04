@@ -1,6 +1,9 @@
 # Craftaway
 
-TODO one day
+Minecraft modpack for Fabric 1.21 to sail the seven seas in style with your mates.
+Aimed to be lightweight, and focused on sea exploration and settlement. Hopefully not a borefest!
+
+https://modrinth.com/modpack/craftaway
 
 ## Mods
 
@@ -45,12 +48,15 @@ TODO one day
 - [Alcohol Only](https://modrinth.com/mod/alcohol-mod)
 - [Bag of Holding](https://modrinth.com/mod/bag-of-holding)
 - [Beautify: Refabricated](https://modrinth.com/mod/beautify-refabricated)
+- [Caffeinated](https://modrinth.com/mod/caffeinated)
 - [Comforts](https://modrinth.com/mod/comforts)
 - [Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated)
 - [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves)
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
+- [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
 - [Musket Mod](https://modrinth.com/mod/musket-mod)
 - [Ocean's Delight](https://modrinth.com/mod/oceans-delight)
+- [Patbox's Brewery](https://modrinth.com/mod/brewery)
 - [Pesky Seagulls](https://modrinth.com/mod/pesky-seagulls)
 - [Small Ships](https://modrinth.com/mod/small-ships)
 - [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
