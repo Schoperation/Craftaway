@@ -313,6 +313,11 @@ hash = "5c1fe59c96c047dfc2af09204cbf42620be5b1830a215e5cb2663fe1ac65521d"
 metafile = true
 
 [[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "d883b9688216dad1958d8503409c88ffa3bd7c2044595775fdae03497e07b1ce"
+metafile = true
+
+[[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "79f0958db94d007778f03da083f9d75077978e3cc04b23f1081ecb2d6a4906b4"
 metafile = true
