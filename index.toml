@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/brewery.pw.toml"
-hash = "3a16ddcee63aaece1c7369a82e7235dc44cccbf14c16758db949866abdcf8db6"
+hash = "0f8a8fd4e5b2d08fadb2ba85ea8a8a33a979b8af2df5c376d28333e82c63d9c3"
 metafile = true
 
 [[files]]
