@@ -128,6 +128,11 @@ hash = "0f8a8fd4e5b2d08fadb2ba85ea8a8a33a979b8af2df5c376d28333e82c63d9c3"
 metafile = true
 
 [[files]]
+file = "mods/caffeinated.pw.toml"
+hash = "ae2f5d23fec659bf17cc27a169f130ea92b537bd414fe59a8fe660219e56df93"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "d5f2d2d1b9bd79dd850c1091a5b78e1865edd373be7b743c941bde0f10c078cb"
 metafile = true
@@ -490,4 +495,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
+metafile = true
+
+[[files]]
+file = "mods/yakuza-fishing.pw.toml"
+hash = "4a5421e1dd0349d883eadcb73352a902cc53de273997fd0a363c9d3e73bdb96d"
 metafile = true

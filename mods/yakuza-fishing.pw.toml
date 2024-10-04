@@ -1,0 +1,13 @@
+name = "yakuza fishing"
+filename = "yakuzaFishing.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ilTclFEK/versions/Vx5R6gr3/yakuzaFishing.jar"
+hash-format = "sha512"
+hash = "540edadca4512b984c180abb31404a286effe89749d0e07a2b1203e2537e97ec6a312e8969d345c34068501659ecc7f112daa02e650fd9a3bf575b1869d02288"
+
+[update]
+[update.modrinth]
+mod-id = "ilTclFEK"
+version = "Vx5R6gr3"
