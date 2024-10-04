@@ -123,6 +123,11 @@ hash = "3aa2ba82183e123f463b8b7e44eae68cc08539227f8e948feab20fe7c3eb59bb"
 metafile = true
 
 [[files]]
+file = "mods/brewery.pw.toml"
+hash = "3a16ddcee63aaece1c7369a82e7235dc44cccbf14c16758db949866abdcf8db6"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "d5f2d2d1b9bd79dd850c1091a5b78e1865edd373be7b743c941bde0f10c078cb"
 metafile = true
