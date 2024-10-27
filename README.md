@@ -45,7 +45,7 @@ https://modrinth.com/modpack/craftaway
 
 ### New Stuff
 
-- [Alcohol Only](https://modrinth.com/mod/alcohol-mod)
+- [Alcohol Only](https://modrinth.com/mod/alcohol)
 - [Bag of Holding](https://modrinth.com/mod/bag-of-holding)
 - [Beautify: Refabricated](https://modrinth.com/mod/beautify-refabricated)
 - [Caffeinated](https://modrinth.com/mod/caffeinated)
