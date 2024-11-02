@@ -108,5 +108,5 @@
 - 1.21.1       [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) 
 - 1.21.1, 3    [SmartBrainLib](https://modrinth.com/mod/smartbrainlib)
 - 1.21.1       [Surveyor](https://modrinth.com/mod/surveyor)
-- 1.21 only    [Valhesia Core](https://modrinth.com/mod/valhelsia-core)
+- 1.21.1       [Valhesia Core](https://modrinth.com/mod/valhelsia-core)
 - 1.21.1       [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
